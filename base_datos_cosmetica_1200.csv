@@ -1,0 +1,1201 @@
+﻿ID_Producto,Nombre_Producto,Marca,Categoría,Ingrediente_Principal,Precio_USD,País_de_Origen,Año_Lanzamiento,Canal_de_Venta
+PCOSM00001,Producto Neutrogena 244,Dior,Protección solar,Vitamina C,35.36,Estados Unidos,2009,Catálogo
+PCOSM00002,Producto Dior 794,NARS,Cuidado capilar,Vitamina C,11.16,Canadá,2015,Retail
+PCOSM00003,Producto NARS 230,Dior,Maquillaje,Aceite de argán,34.38,Japón,2018,Distribuidor
+PCOSM00004,Producto MAC 489,Maybelline,Protección solar,Niacinamida,61.19,Canadá,2021,E-commerce
+PCOSM00005,Producto MAC 46,Clinique,Protección solar,Aloe vera,21.16,Alemania,2008,Distribuidor
+PCOSM00006,Producto Dior 32,MAC,Fragancias,Colágeno,97.05,Corea del Sur,2011,E-commerce
+PCOSM00007,Producto Clinique 462,Revlon,Cuidado capilar,Vitamina C,94.17,Colombia,2005,E-commerce
+PCOSM00008,Producto Estée Lauder 260,L'Oréal,Maquillaje,Colágeno,51.88,Corea del Sur,2024,Retail
+PCOSM00009,Producto Clinique 837,Neutrogena,Cuidado capilar,Extracto de té verde,97.48,Canadá,2024,Distribuidor
+PCOSM00010,Producto L'Oréal 731,Clinique,Cuidado capilar,Ácido hialurónico,77.45,Estados Unidos,2024,E-commerce
+PCOSM00011,Producto Dior 800,Revlon,Fragancias,Retinol,20.58,Francia,2017,E-commerce
+PCOSM00012,Producto Estée Lauder 91,Neutrogena,Cuidado capilar,Ácido hialurónico,16.36,Japón,2006,Marketplace
+PCOSM00013,Producto Clinique 215,NARS,Cuidado capilar,Niacinamida,94.78,Canadá,2011,Retail
+PCOSM00014,Producto NARS 783,L'Oréal,Protección solar,Retinol,97.34,Brasil,2024,Catálogo
+PCOSM00015,Producto Clinique 759,Dior,Fragancias,Retinol,54.59,Colombia,2017,Retail
+PCOSM00016,Producto NARS 163,Clinique,Fragancias,Aloe vera,58.15,Estados Unidos,2017,Marketplace
+PCOSM00017,Producto Dior 659,Revlon,Cuidado de la piel,Extracto de té verde,85.67,Alemania,2013,Marketplace
+PCOSM00018,Producto Revlon 298,NARS,Maquillaje,Retinol,60.46,Japón,2012,Marketplace
+PCOSM00019,Producto NARS 828,Neutrogena,Maquillaje,Aceite de argán,65.78,Japón,2005,Retail
+PCOSM00020,Producto L'Oréal 579,Clinique,Fragancias,Niacinamida,56.02,Alemania,2009,Retail
+PCOSM00021,Producto Revlon 126,Neutrogena,Fragancias,Niacinamida,9.64,Alemania,2006,Retail
+PCOSM00022,Producto NARS 814,Lancôme,Maquillaje,Vitamina C,114.64,Colombia,2015,Distribuidor
+PCOSM00023,Producto Lancôme 182,Revlon,Cuidado de la piel,Aloe vera,78.42,Japón,2021,Marketplace
+PCOSM00024,Producto Revlon 686,Clinique,Protección solar,Aloe vera,90.59,Colombia,2017,Retail
+PCOSM00025,Producto Estée Lauder 264,NARS,Cuidado de la piel,Aloe vera,107.51,Francia,2014,Catálogo
+PCOSM00026,Producto Neutrogena 634,Estée Lauder,Fragancias,Extracto de té verde,118.72,Canadá,2009,Catálogo
+PCOSM00027,Producto Estée Lauder 163,Dior,Cuidado capilar,Retinol,19.57,Francia,2017,Catálogo
+PCOSM00028,Producto Lancôme 872,Dior,Cuidado de la piel,Vitamina C,74.4,Francia,2015,Retail
+PCOSM00029,Producto Dior 324,NARS,Fragancias,Vitamina C,50.16,Colombia,2024,Distribuidor
+PCOSM00030,Producto Dior 420,Estée Lauder,Fragancias,Retinol,113.07,Estados Unidos,2018,Catálogo
+PCOSM00031,Producto Neutrogena 975,Neutrogena,Cuidado capilar,Ácido hialurónico,96.93,Alemania,2007,Retail
+PCOSM00032,Producto MAC 975,Dior,Cuidado capilar,Extracto de té verde,109.8,Canadá,2015,Distribuidor
+PCOSM00033,Producto Clinique 644,Maybelline,Cuidado capilar,Retinol,98,Corea del Sur,2010,Catálogo
+PCOSM00034,Producto Clinique 159,Lancôme,Maquillaje,Aloe vera,23.99,Canadá,2015,Catálogo
+PCOSM00035,Producto MAC 405,Estée Lauder,Protección solar,Retinol,91.39,Canadá,2010,Distribuidor
+PCOSM00036,Producto MAC 287,Maybelline,Cuidado capilar,Vitamina C,10.84,Corea del Sur,2016,Marketplace
+PCOSM00037,Producto Lancôme 635,Dior,Fragancias,Colágeno,22.61,Canadá,2013,E-commerce
+PCOSM00038,Producto Clinique 716,Neutrogena,Cuidado de la piel,Extracto de té verde,95.03,Francia,2006,Catálogo
+PCOSM00039,Producto Neutrogena 709,Estée Lauder,Fragancias,Ácido hialurónico,42.46,Colombia,2006,Retail
+PCOSM00040,Producto Dior 735,MAC,Maquillaje,Extracto de té verde,45.47,Brasil,2014,E-commerce
+PCOSM00041,Producto L'Oréal 333,Clinique,Fragancias,Aloe vera,54.77,Alemania,2008,Catálogo
+PCOSM00042,Producto Estée Lauder 236,Estée Lauder,Cuidado capilar,Retinol,19.19,Alemania,2022,Marketplace
+PCOSM00043,Producto MAC 80,L'Oréal,Maquillaje,Vitamina C,42.34,Estados Unidos,2014,Distribuidor
+PCOSM00044,Producto Neutrogena 634,Dior,Fragancias,Aloe vera,9.08,Canadá,2016,Marketplace
+PCOSM00045,Producto MAC 867,Clinique,Protección solar,Retinol,27.35,Francia,2019,Retail
+PCOSM00046,Producto Dior 172,L'Oréal,Cuidado capilar,Extracto de té verde,11.03,Brasil,2007,E-commerce
+PCOSM00047,Producto Lancôme 959,L'Oréal,Cuidado capilar,Vitamina C,110.78,Canadá,2019,E-commerce
+PCOSM00048,Producto Estée Lauder 676,Neutrogena,Maquillaje,Colágeno,103.42,Francia,2024,Retail
+PCOSM00049,Producto Estée Lauder 82,Revlon,Cuidado de la piel,Vitamina C,64.13,Japón,2015,Retail
+PCOSM00050,Producto NARS 79,Lancôme,Maquillaje,Niacinamida,85.44,Corea del Sur,2010,Distribuidor
+PCOSM00051,Producto L'Oréal 747,Estée Lauder,Cuidado capilar,Ácido hialurónico,106.35,Corea del Sur,2018,Marketplace
+PCOSM00052,Producto MAC 934,Neutrogena,Cuidado de la piel,Extracto de té verde,23.77,Alemania,2017,E-commerce
+PCOSM00053,Producto Estée Lauder 438,Revlon,Maquillaje,Retinol,100.11,Estados Unidos,2024,Distribuidor
+PCOSM00054,Producto MAC 838,L'Oréal,Maquillaje,Colágeno,109.24,Colombia,2013,Catálogo
+PCOSM00055,Producto Clinique 369,Dior,Fragancias,Vitamina C,40.12,Brasil,2013,Catálogo
+PCOSM00056,Producto L'Oréal 361,Clinique,Maquillaje,Retinol,97.96,Canadá,2015,Distribuidor
+PCOSM00057,Producto Dior 244,Estée Lauder,Maquillaje,Retinol,113.89,Canadá,2022,Distribuidor
+PCOSM00058,Producto L'Oréal 249,Dior,Maquillaje,Aloe vera,119.79,Corea del Sur,2017,Distribuidor
+PCOSM00059,Producto Clinique 923,Clinique,Maquillaje,Vitamina C,109.59,Colombia,2023,Marketplace
+PCOSM00060,Producto Clinique 259,Revlon,Maquillaje,Retinol,8.39,Francia,2007,Distribuidor
+PCOSM00061,Producto L'Oréal 417,Clinique,Cuidado capilar,Ácido hialurónico,27.77,Francia,2012,Catálogo
+PCOSM00062,Producto Neutrogena 332,Clinique,Fragancias,Aceite de argán,106.44,Estados Unidos,2009,E-commerce
+PCOSM00063,Producto L'Oréal 773,Clinique,Maquillaje,Extracto de té verde,97.32,Francia,2014,Marketplace
+PCOSM00064,Producto Maybelline 632,L'Oréal,Fragancias,Colágeno,20.1,Corea del Sur,2021,Catálogo
+PCOSM00065,Producto Revlon 230,Estée Lauder,Cuidado de la piel,Extracto de té verde,108.04,Francia,2016,Catálogo
+PCOSM00066,Producto Estée Lauder 336,Dior,Protección solar,Ácido hialurónico,13.78,Brasil,2010,Retail
+PCOSM00067,Producto L'Oréal 427,NARS,Protección solar,Colágeno,88.88,Alemania,2022,Distribuidor
+PCOSM00068,Producto L'Oréal 543,Neutrogena,Protección solar,Colágeno,79.18,Francia,2008,Catálogo
+PCOSM00069,Producto NARS 753,Dior,Fragancias,Niacinamida,108.4,Canadá,2007,Marketplace
+PCOSM00070,Producto Estée Lauder 727,Maybelline,Cuidado de la piel,Niacinamida,44.52,Estados Unidos,2005,Marketplace
+PCOSM00071,Producto MAC 326,Estée Lauder,Maquillaje,Ácido hialurónico,56.1,Corea del Sur,2011,Distribuidor
+PCOSM00072,Producto Estée Lauder 29,Dior,Maquillaje,Niacinamida,62.67,Japón,2007,Catálogo
+PCOSM00073,Producto Dior 861,NARS,Maquillaje,Vitamina C,42.5,Brasil,2005,E-commerce
+PCOSM00074,Producto Dior 779,L'Oréal,Fragancias,Retinol,50.21,Francia,2017,Distribuidor
+PCOSM00075,Producto Neutrogena 691,Maybelline,Cuidado de la piel,Vitamina C,55.7,Alemania,2018,E-commerce
+PCOSM00076,Producto Lancôme 230,Clinique,Protección solar,Ácido hialurónico,65.18,Japón,2011,Distribuidor
+PCOSM00077,Producto Dior 537,Lancôme,Maquillaje,Ácido hialurónico,15.05,Francia,2021,E-commerce
+PCOSM00078,Producto Dior 558,L'Oréal,Cuidado de la piel,Extracto de té verde,112.1,Francia,2014,Marketplace
+PCOSM00079,Producto L'Oréal 749,Clinique,Fragancias,Vitamina C,116.18,Colombia,2019,Marketplace
+PCOSM00080,Producto Maybelline 597,Neutrogena,Cuidado de la piel,Retinol,93.03,Corea del Sur,2017,Marketplace
+PCOSM00081,Producto L'Oréal 687,Dior,Cuidado capilar,Extracto de té verde,70.99,Francia,2021,Marketplace
+PCOSM00082,Producto Dior 691,MAC,Cuidado de la piel,Ácido hialurónico,40.31,Francia,2020,E-commerce
+PCOSM00083,Producto L'Oréal 145,Neutrogena,Protección solar,Colágeno,53.58,Corea del Sur,2018,Distribuidor
+PCOSM00084,Producto Maybelline 722,Clinique,Fragancias,Aloe vera,46.03,Alemania,2007,Catálogo
+PCOSM00085,Producto L'Oréal 597,Estée Lauder,Maquillaje,Aloe vera,113.32,Estados Unidos,2016,Marketplace
+PCOSM00086,Producto Estée Lauder 9,Neutrogena,Fragancias,Ácido hialurónico,71.02,Colombia,2006,Catálogo
+PCOSM00087,Producto L'Oréal 118,NARS,Protección solar,Niacinamida,114.98,Estados Unidos,2021,Retail
+PCOSM00088,Producto L'Oréal 508,Neutrogena,Fragancias,Aceite de argán,15.95,Estados Unidos,2022,Catálogo
+PCOSM00089,Producto Dior 850,L'Oréal,Protección solar,Aceite de argán,67.43,Colombia,2014,E-commerce
+PCOSM00090,Producto L'Oréal 90,MAC,Maquillaje,Niacinamida,93.69,Canadá,2019,Distribuidor
+PCOSM00091,Producto Revlon 942,Maybelline,Protección solar,Retinol,52.42,Canadá,2016,Distribuidor
+PCOSM00092,Producto L'Oréal 141,Maybelline,Cuidado capilar,Extracto de té verde,88.46,Canadá,2020,Catálogo
+PCOSM00093,Producto Estée Lauder 906,Neutrogena,Cuidado capilar,Ácido hialurónico,29.26,Brasil,2020,Catálogo
+PCOSM00094,Producto MAC 760,NARS,Cuidado de la piel,Extracto de té verde,7.05,Canadá,2013,E-commerce
+PCOSM00095,Producto Dior 715,L'Oréal,Fragancias,Colágeno,16.56,Brasil,2017,Distribuidor
+PCOSM00096,Producto Lancôme 877,MAC,Maquillaje,Extracto de té verde,54.67,Corea del Sur,2022,Retail
+PCOSM00097,Producto Estée Lauder 393,Revlon,Maquillaje,Retinol,90.58,Alemania,2022,E-commerce
+PCOSM00098,Producto Lancôme 471,NARS,Cuidado de la piel,Vitamina C,88.53,Canadá,2006,Catálogo
+PCOSM00099,Producto MAC 224,MAC,Protección solar,Colágeno,37.53,Brasil,2021,Catálogo
+PCOSM00100,Producto Neutrogena 621,Maybelline,Maquillaje,Colágeno,44.75,Corea del Sur,2024,Catálogo
+PCOSM00101,Producto Neutrogena 26,Estée Lauder,Protección solar,Aloe vera,32.48,Brasil,2005,E-commerce
+PCOSM00102,Producto Neutrogena 628,Clinique,Fragancias,Niacinamida,96.86,Colombia,2022,Catálogo
+PCOSM00103,Producto MAC 77,Revlon,Maquillaje,Extracto de té verde,16.18,Brasil,2005,E-commerce
+PCOSM00104,Producto Neutrogena 192,Dior,Maquillaje,Extracto de té verde,79.17,Brasil,2018,Marketplace
+PCOSM00105,Producto Dior 848,Maybelline,Cuidado capilar,Ácido hialurónico,19.18,Alemania,2023,Catálogo
+PCOSM00106,Producto Neutrogena 390,L'Oréal,Cuidado de la piel,Vitamina C,112.68,Francia,2023,Marketplace
+PCOSM00107,Producto Maybelline 656,Dior,Protección solar,Colágeno,66.77,Japón,2006,Catálogo
+PCOSM00108,Producto Estée Lauder 820,Clinique,Maquillaje,Retinol,64.12,Corea del Sur,2011,Retail
+PCOSM00109,Producto MAC 716,MAC,Maquillaje,Aloe vera,93.57,Canadá,2014,E-commerce
+PCOSM00110,Producto NARS 644,Revlon,Cuidado capilar,Aceite de argán,8.71,Corea del Sur,2019,E-commerce
+PCOSM00111,Producto L'Oréal 558,NARS,Fragancias,Vitamina C,31.54,Alemania,2007,Catálogo
+PCOSM00112,Producto Neutrogena 789,Estée Lauder,Protección solar,Aceite de argán,58.42,Canadá,2012,Retail
+PCOSM00113,Producto Estée Lauder 921,NARS,Maquillaje,Aceite de argán,63.73,Japón,2013,Distribuidor
+PCOSM00114,Producto Estée Lauder 693,MAC,Fragancias,Colágeno,107.78,Alemania,2014,Catálogo
+PCOSM00115,Producto Neutrogena 55,Revlon,Protección solar,Aloe vera,100.27,Japón,2017,E-commerce
+PCOSM00116,Producto MAC 982,Revlon,Protección solar,Aloe vera,83.25,Corea del Sur,2013,Distribuidor
+PCOSM00117,Producto L'Oréal 578,MAC,Fragancias,Aloe vera,35.98,Francia,2023,E-commerce
+PCOSM00118,Producto Neutrogena 40,Revlon,Protección solar,Vitamina C,44.43,Corea del Sur,2011,Distribuidor
+PCOSM00119,Producto MAC 727,Estée Lauder,Protección solar,Niacinamida,55.47,Corea del Sur,2008,Catálogo
+PCOSM00120,Producto NARS 944,MAC,Cuidado capilar,Niacinamida,95.29,Brasil,2015,Distribuidor
+PCOSM00121,Producto NARS 537,MAC,Fragancias,Vitamina C,22.68,Japón,2023,Distribuidor
+PCOSM00122,Producto Clinique 281,L'Oréal,Fragancias,Colágeno,103.56,Brasil,2020,Marketplace
+PCOSM00123,Producto Maybelline 331,NARS,Cuidado capilar,Aloe vera,96.53,Corea del Sur,2010,E-commerce
+PCOSM00124,Producto Maybelline 217,Maybelline,Cuidado de la piel,Vitamina C,105.04,Corea del Sur,2005,Catálogo
+PCOSM00125,Producto Estée Lauder 726,Dior,Fragancias,Retinol,54.62,Francia,2016,Distribuidor
+PCOSM00126,Producto Estée Lauder 391,MAC,Cuidado capilar,Aloe vera,37.67,Corea del Sur,2015,Distribuidor
+PCOSM00127,Producto Revlon 643,Clinique,Maquillaje,Extracto de té verde,29.06,Japón,2019,Catálogo
+PCOSM00128,Producto Estée Lauder 892,Neutrogena,Cuidado capilar,Retinol,38.68,Brasil,2016,Distribuidor
+PCOSM00129,Producto Lancôme 340,Lancôme,Maquillaje,Aloe vera,113.49,Francia,2012,Catálogo
+PCOSM00130,Producto Dior 446,Lancôme,Cuidado capilar,Aceite de argán,89.61,Estados Unidos,2023,E-commerce
+PCOSM00131,Producto L'Oréal 963,NARS,Cuidado capilar,Extracto de té verde,91.11,Japón,2021,E-commerce
+PCOSM00132,Producto Maybelline 251,Revlon,Fragancias,Colágeno,12.29,Alemania,2018,Retail
+PCOSM00133,Producto NARS 152,Clinique,Fragancias,Niacinamida,38.06,Estados Unidos,2022,E-commerce
+PCOSM00134,Producto L'Oréal 770,Revlon,Protección solar,Extracto de té verde,35.4,Colombia,2022,E-commerce
+PCOSM00135,Producto Clinique 881,L'Oréal,Cuidado capilar,Ácido hialurónico,103.62,Brasil,2011,Catálogo
+PCOSM00136,Producto Lancôme 457,Neutrogena,Protección solar,Vitamina C,82.05,Estados Unidos,2023,Marketplace
+PCOSM00137,Producto Lancôme 910,Estée Lauder,Cuidado capilar,Extracto de té verde,119.44,Estados Unidos,2024,Marketplace
+PCOSM00138,Producto Clinique 829,Dior,Maquillaje,Extracto de té verde,62.33,Corea del Sur,2008,E-commerce
+PCOSM00139,Producto Dior 848,Revlon,Cuidado de la piel,Aloe vera,24.06,Colombia,2019,Marketplace
+PCOSM00140,Producto Estée Lauder 364,Revlon,Maquillaje,Niacinamida,22.8,Canadá,2022,Marketplace
+PCOSM00141,Producto Estée Lauder 850,Lancôme,Cuidado capilar,Extracto de té verde,67.87,Estados Unidos,2019,Distribuidor
+PCOSM00142,Producto Neutrogena 887,MAC,Cuidado de la piel,Retinol,43.94,Japón,2015,Catálogo
+PCOSM00143,Producto Estée Lauder 47,L'Oréal,Maquillaje,Extracto de té verde,67.22,Brasil,2021,Distribuidor
+PCOSM00144,Producto Lancôme 791,NARS,Cuidado de la piel,Retinol,41.8,Corea del Sur,2016,Catálogo
+PCOSM00145,Producto Lancôme 216,Neutrogena,Cuidado de la piel,Vitamina C,93.89,Estados Unidos,2016,Retail
+PCOSM00146,Producto NARS 619,Dior,Protección solar,Retinol,24.94,Estados Unidos,2023,E-commerce
+PCOSM00147,Producto Dior 698,Dior,Fragancias,Aloe vera,44.06,Corea del Sur,2008,Marketplace
+PCOSM00148,Producto MAC 494,Estée Lauder,Protección solar,Extracto de té verde,5.96,Alemania,2021,Catálogo
+PCOSM00149,Producto Maybelline 398,Clinique,Cuidado capilar,Vitamina C,95.32,Alemania,2016,Distribuidor
+PCOSM00150,Producto Dior 418,MAC,Cuidado capilar,Niacinamida,20.52,Canadá,2015,E-commerce
+PCOSM00151,Producto Maybelline 818,Lancôme,Cuidado capilar,Extracto de té verde,38.93,Colombia,2012,Retail
+PCOSM00152,Producto Estée Lauder 437,Lancôme,Cuidado de la piel,Aceite de argán,61.8,Japón,2013,Distribuidor
+PCOSM00153,Producto Revlon 816,Estée Lauder,Protección solar,Vitamina C,61.62,Colombia,2020,Catálogo
+PCOSM00154,Producto NARS 914,Neutrogena,Maquillaje,Retinol,38.05,Japón,2008,Marketplace
+PCOSM00155,Producto Estée Lauder 922,Dior,Cuidado de la piel,Niacinamida,38.9,Colombia,2012,E-commerce
+PCOSM00156,Producto Neutrogena 304,Clinique,Maquillaje,Extracto de té verde,18.27,Corea del Sur,2013,Marketplace
+PCOSM00157,Producto Dior 552,MAC,Maquillaje,Ácido hialurónico,77.07,Francia,2012,Catálogo
+PCOSM00158,Producto Clinique 630,Neutrogena,Cuidado capilar,Extracto de té verde,34.92,Francia,2014,E-commerce
+PCOSM00159,Producto Clinique 11,Dior,Fragancias,Extracto de té verde,60.63,Estados Unidos,2006,Distribuidor
+PCOSM00160,Producto Lancôme 83,Maybelline,Cuidado de la piel,Colágeno,87.24,Corea del Sur,2009,Marketplace
+PCOSM00161,Producto Dior 395,Lancôme,Maquillaje,Niacinamida,54.9,Japón,2011,Distribuidor
+PCOSM00162,Producto L'Oréal 472,L'Oréal,Maquillaje,Aloe vera,44.39,Brasil,2009,Retail
+PCOSM00163,Producto Revlon 80,Lancôme,Cuidado capilar,Retinol,88.43,Canadá,2022,Distribuidor
+PCOSM00164,Producto L'Oréal 875,Estée Lauder,Protección solar,Niacinamida,25.22,Alemania,2012,Retail
+PCOSM00165,Producto NARS 771,Maybelline,Maquillaje,Colágeno,58.44,Francia,2024,Catálogo
+PCOSM00166,Producto Neutrogena 382,Neutrogena,Protección solar,Aceite de argán,86.35,Canadá,2015,Distribuidor
+PCOSM00167,Producto L'Oréal 127,MAC,Cuidado capilar,Extracto de té verde,28.38,Canadá,2012,Marketplace
+PCOSM00168,Producto Revlon 684,Dior,Cuidado capilar,Colágeno,63.76,Brasil,2017,Marketplace
+PCOSM00169,Producto L'Oréal 27,Estée Lauder,Protección solar,Retinol,30.33,Corea del Sur,2015,Distribuidor
+PCOSM00170,Producto Clinique 325,Neutrogena,Fragancias,Aceite de argán,27.9,Canadá,2010,Catálogo
+PCOSM00171,Producto L'Oréal 26,Revlon,Protección solar,Aloe vera,90.97,Brasil,2013,Marketplace
+PCOSM00172,Producto Lancôme 665,L'Oréal,Protección solar,Retinol,60.28,Canadá,2007,Retail
+PCOSM00173,Producto Clinique 703,L'Oréal,Cuidado capilar,Ácido hialurónico,64.83,Corea del Sur,2019,Distribuidor
+PCOSM00174,Producto Dior 694,NARS,Cuidado capilar,Ácido hialurónico,90.05,Alemania,2008,Distribuidor
+PCOSM00175,Producto Revlon 541,Revlon,Cuidado de la piel,Retinol,92.39,Alemania,2006,Marketplace
+PCOSM00176,Producto NARS 160,Dior,Cuidado de la piel,Ácido hialurónico,74.57,Brasil,2018,E-commerce
+PCOSM00177,Producto L'Oréal 508,MAC,Maquillaje,Extracto de té verde,42.07,Canadá,2012,Distribuidor
+PCOSM00178,Producto Clinique 96,Revlon,Protección solar,Ácido hialurónico,80.57,Japón,2005,Distribuidor
+PCOSM00179,Producto Clinique 440,Estée Lauder,Maquillaje,Vitamina C,57.92,Colombia,2022,Marketplace
+PCOSM00180,Producto Maybelline 741,MAC,Cuidado capilar,Aceite de argán,19.01,Colombia,2014,Marketplace
+PCOSM00181,Producto MAC 553,MAC,Fragancias,Retinol,12.18,Estados Unidos,2022,Catálogo
+PCOSM00182,Producto Maybelline 729,Dior,Cuidado de la piel,Vitamina C,91.64,Corea del Sur,2013,Retail
+PCOSM00183,Producto Maybelline 482,Maybelline,Protección solar,Aceite de argán,45.09,Canadá,2005,Marketplace
+PCOSM00184,Producto Neutrogena 977,NARS,Maquillaje,Aloe vera,115.6,Japón,2017,Catálogo
+PCOSM00185,Producto Revlon 686,Estée Lauder,Cuidado capilar,Vitamina C,37.85,Canadá,2007,Retail
+PCOSM00186,Producto NARS 200,Neutrogena,Fragancias,Colágeno,103.78,Brasil,2008,Catálogo
+PCOSM00187,Producto Lancôme 736,Estée Lauder,Cuidado de la piel,Niacinamida,67.37,Colombia,2024,Catálogo
+PCOSM00188,Producto Dior 280,MAC,Cuidado de la piel,Ácido hialurónico,73.85,Colombia,2011,Catálogo
+PCOSM00189,Producto NARS 903,Dior,Fragancias,Aloe vera,13.47,Francia,2022,Marketplace
+PCOSM00190,Producto Dior 715,Neutrogena,Fragancias,Colágeno,51.27,Alemania,2022,Retail
+PCOSM00191,Producto Dior 484,L'Oréal,Maquillaje,Vitamina C,59.09,Estados Unidos,2006,Catálogo
+PCOSM00192,Producto MAC 992,Maybelline,Cuidado de la piel,Aceite de argán,23.8,Colombia,2021,Distribuidor
+PCOSM00193,Producto Maybelline 924,MAC,Fragancias,Colágeno,77.64,Francia,2009,Distribuidor
+PCOSM00194,Producto Revlon 103,L'Oréal,Cuidado capilar,Colágeno,81.68,Canadá,2017,Marketplace
+PCOSM00195,Producto Revlon 571,Maybelline,Protección solar,Colágeno,31.96,Brasil,2005,Distribuidor
+PCOSM00196,Producto Lancôme 646,Maybelline,Cuidado capilar,Vitamina C,60.94,Corea del Sur,2018,Retail
+PCOSM00197,Producto L'Oréal 566,Estée Lauder,Cuidado capilar,Vitamina C,20.3,Alemania,2013,Catálogo
+PCOSM00198,Producto Estée Lauder 957,Lancôme,Cuidado de la piel,Vitamina C,93.16,Alemania,2019,Marketplace
+PCOSM00199,Producto Lancôme 277,MAC,Fragancias,Aloe vera,99.41,Japón,2018,Catálogo
+PCOSM00200,Producto Estée Lauder 567,Lancôme,Cuidado de la piel,Vitamina C,45.19,Alemania,2008,Retail
+PCOSM00201,Producto Estée Lauder 791,Neutrogena,Maquillaje,Extracto de té verde,82.71,Francia,2005,Marketplace
+PCOSM00202,Producto MAC 916,Clinique,Cuidado de la piel,Niacinamida,70.22,Canadá,2017,Catálogo
+PCOSM00203,Producto MAC 945,Estée Lauder,Cuidado capilar,Retinol,112.81,Estados Unidos,2008,Distribuidor
+PCOSM00204,Producto Revlon 164,NARS,Protección solar,Vitamina C,52.37,Francia,2018,E-commerce
+PCOSM00205,Producto Neutrogena 808,Clinique,Cuidado capilar,Ácido hialurónico,34.79,Colombia,2018,Retail
+PCOSM00206,Producto Maybelline 740,Dior,Maquillaje,Niacinamida,57.85,Alemania,2016,Retail
+PCOSM00207,Producto Lancôme 967,Maybelline,Cuidado de la piel,Retinol,42.2,Alemania,2022,Catálogo
+PCOSM00208,Producto L'Oréal 99,Clinique,Cuidado de la piel,Vitamina C,26.82,Francia,2010,Distribuidor
+PCOSM00209,Producto Neutrogena 899,NARS,Cuidado capilar,Extracto de té verde,68.72,Estados Unidos,2009,Marketplace
+PCOSM00210,Producto Neutrogena 826,NARS,Fragancias,Colágeno,93.67,Japón,2014,Catálogo
+PCOSM00211,Producto Lancôme 52,Neutrogena,Protección solar,Ácido hialurónico,109.86,Estados Unidos,2011,Retail
+PCOSM00212,Producto Maybelline 423,Dior,Maquillaje,Vitamina C,47.11,Canadá,2021,Catálogo
+PCOSM00213,Producto Neutrogena 75,Clinique,Cuidado capilar,Niacinamida,116.66,Francia,2010,Retail
+PCOSM00214,Producto Neutrogena 270,Revlon,Protección solar,Niacinamida,41.34,Canadá,2019,Marketplace
+PCOSM00215,Producto Neutrogena 893,Dior,Cuidado de la piel,Niacinamida,38.47,Japón,2017,E-commerce
+PCOSM00216,Producto Dior 356,Maybelline,Protección solar,Aceite de argán,119.15,Brasil,2011,E-commerce
+PCOSM00217,Producto Estée Lauder 342,L'Oréal,Protección solar,Aceite de argán,43.5,Francia,2005,Marketplace
+PCOSM00218,Producto Revlon 701,Estée Lauder,Cuidado capilar,Extracto de té verde,50.04,Estados Unidos,2023,Distribuidor
+PCOSM00219,Producto NARS 608,Revlon,Fragancias,Niacinamida,62.36,Estados Unidos,2014,E-commerce
+PCOSM00220,Producto Lancôme 694,Neutrogena,Maquillaje,Colágeno,106.93,Corea del Sur,2010,Distribuidor
+PCOSM00221,Producto Estée Lauder 57,NARS,Fragancias,Ácido hialurónico,79.94,Alemania,2018,Marketplace
+PCOSM00222,Producto MAC 896,Clinique,Cuidado de la piel,Vitamina C,30.32,Francia,2005,Retail
+PCOSM00223,Producto MAC 57,L'Oréal,Fragancias,Niacinamida,112.13,Canadá,2008,Retail
+PCOSM00224,Producto Lancôme 468,Revlon,Cuidado capilar,Extracto de té verde,87.49,Estados Unidos,2010,Retail
+PCOSM00225,Producto MAC 53,Neutrogena,Protección solar,Aloe vera,75.31,Estados Unidos,2008,Distribuidor
+PCOSM00226,Producto MAC 810,L'Oréal,Cuidado capilar,Ácido hialurónico,86.79,Japón,2018,Distribuidor
+PCOSM00227,Producto Revlon 185,Estée Lauder,Maquillaje,Ácido hialurónico,103.96,Francia,2006,Marketplace
+PCOSM00228,Producto Dior 248,Maybelline,Fragancias,Aloe vera,107.59,Corea del Sur,2021,Retail
+PCOSM00229,Producto Neutrogena 601,Maybelline,Cuidado capilar,Aceite de argán,104.53,Estados Unidos,2015,Marketplace
+PCOSM00230,Producto Estée Lauder 971,MAC,Fragancias,Extracto de té verde,81.96,Japón,2018,E-commerce
+PCOSM00231,Producto Lancôme 697,Revlon,Protección solar,Vitamina C,23.88,Canadá,2008,Retail
+PCOSM00232,Producto Clinique 578,Maybelline,Fragancias,Vitamina C,58.62,Brasil,2009,Retail
+PCOSM00233,Producto L'Oréal 747,Clinique,Protección solar,Extracto de té verde,108.27,Canadá,2013,Retail
+PCOSM00234,Producto Lancôme 436,Revlon,Fragancias,Ácido hialurónico,118.92,Francia,2022,Catálogo
+PCOSM00235,Producto NARS 967,Maybelline,Maquillaje,Colágeno,6.47,Estados Unidos,2023,Catálogo
+PCOSM00236,Producto NARS 243,Estée Lauder,Maquillaje,Extracto de té verde,33.46,Estados Unidos,2005,Catálogo
+PCOSM00237,Producto Dior 963,Clinique,Cuidado de la piel,Aloe vera,24.62,Francia,2020,Retail
+PCOSM00238,Producto Estée Lauder 207,Maybelline,Fragancias,Ácido hialurónico,65,Estados Unidos,2014,Catálogo
+PCOSM00239,Producto Lancôme 624,L'Oréal,Maquillaje,Retinol,114.34,Canadá,2022,Retail
+PCOSM00240,Producto Clinique 582,NARS,Fragancias,Aceite de argán,106.04,Brasil,2022,Marketplace
+PCOSM00241,Producto Lancôme 517,Clinique,Protección solar,Colágeno,73.5,Japón,2020,Retail
+PCOSM00242,Producto NARS 515,Neutrogena,Maquillaje,Ácido hialurónico,56.95,Brasil,2018,Catálogo
+PCOSM00243,Producto Clinique 465,Estée Lauder,Cuidado capilar,Retinol,59.92,Estados Unidos,2020,Catálogo
+PCOSM00244,Producto Neutrogena 534,MAC,Maquillaje,Ácido hialurónico,11.91,Japón,2020,Marketplace
+PCOSM00245,Producto Maybelline 486,Clinique,Maquillaje,Aceite de argán,43.91,Canadá,2023,Distribuidor
+PCOSM00246,Producto Neutrogena 771,Dior,Cuidado capilar,Retinol,118.69,Alemania,2022,Catálogo
+PCOSM00247,Producto NARS 744,Lancôme,Fragancias,Retinol,43.77,Canadá,2005,Distribuidor
+PCOSM00248,Producto Maybelline 332,Maybelline,Cuidado capilar,Ácido hialurónico,29.1,Corea del Sur,2018,E-commerce
+PCOSM00249,Producto NARS 462,MAC,Maquillaje,Extracto de té verde,43.79,Colombia,2013,Retail
+PCOSM00250,Producto Clinique 353,MAC,Fragancias,Ácido hialurónico,105.02,Corea del Sur,2024,E-commerce
+PCOSM00251,Producto NARS 550,L'Oréal,Cuidado capilar,Retinol,45.09,Francia,2020,Distribuidor
+PCOSM00252,Producto NARS 33,Dior,Maquillaje,Aloe vera,67.23,Brasil,2006,Marketplace
+PCOSM00253,Producto Estée Lauder 345,Neutrogena,Cuidado de la piel,Aceite de argán,14.03,Alemania,2005,Marketplace
+PCOSM00254,Producto Clinique 867,MAC,Protección solar,Niacinamida,83.24,Colombia,2005,Retail
+PCOSM00255,Producto NARS 327,Revlon,Cuidado de la piel,Niacinamida,44.33,Francia,2007,Marketplace
+PCOSM00256,Producto Lancôme 244,Maybelline,Cuidado de la piel,Ácido hialurónico,54.56,Alemania,2008,Distribuidor
+PCOSM00257,Producto NARS 497,Maybelline,Fragancias,Vitamina C,33.46,Estados Unidos,2013,Distribuidor
+PCOSM00258,Producto Revlon 5,Neutrogena,Maquillaje,Extracto de té verde,100.49,Alemania,2015,Distribuidor
+PCOSM00259,Producto Neutrogena 345,Revlon,Cuidado de la piel,Aceite de argán,77.46,Brasil,2005,E-commerce
+PCOSM00260,Producto Estée Lauder 393,NARS,Maquillaje,Aloe vera,93.7,Canadá,2017,Catálogo
+PCOSM00261,Producto Revlon 229,Revlon,Fragancias,Retinol,32.53,Canadá,2017,Retail
+PCOSM00262,Producto Revlon 152,Dior,Fragancias,Niacinamida,13.24,Brasil,2016,E-commerce
+PCOSM00263,Producto Lancôme 738,MAC,Fragancias,Niacinamida,111,Canadá,2006,Catálogo
+PCOSM00264,Producto Lancôme 423,MAC,Fragancias,Extracto de té verde,28.39,Estados Unidos,2022,Distribuidor
+PCOSM00265,Producto Neutrogena 246,Neutrogena,Protección solar,Colágeno,13.16,Canadá,2017,Retail
+PCOSM00266,Producto Revlon 917,Maybelline,Maquillaje,Extracto de té verde,118.76,Francia,2013,Retail
+PCOSM00267,Producto Clinique 888,Lancôme,Cuidado capilar,Extracto de té verde,98.15,Francia,2008,Marketplace
+PCOSM00268,Producto Maybelline 35,Neutrogena,Maquillaje,Vitamina C,105.6,Corea del Sur,2008,E-commerce
+PCOSM00269,Producto L'Oréal 45,Maybelline,Fragancias,Niacinamida,105.45,Corea del Sur,2019,E-commerce
+PCOSM00270,Producto Dior 936,NARS,Fragancias,Aceite de argán,32.92,Japón,2017,Catálogo
+PCOSM00271,Producto Lancôme 667,L'Oréal,Cuidado capilar,Colágeno,84.02,Brasil,2009,Marketplace
+PCOSM00272,Producto Lancôme 368,MAC,Cuidado de la piel,Extracto de té verde,64.61,Alemania,2012,Marketplace
+PCOSM00273,Producto MAC 946,Estée Lauder,Maquillaje,Ácido hialurónico,91.87,Estados Unidos,2022,Distribuidor
+PCOSM00274,Producto Maybelline 407,Clinique,Maquillaje,Retinol,70.87,Alemania,2015,Catálogo
+PCOSM00275,Producto Dior 193,L'Oréal,Fragancias,Colágeno,93.83,Alemania,2016,Catálogo
+PCOSM00276,Producto Revlon 698,Revlon,Fragancias,Niacinamida,69.54,Francia,2022,Catálogo
+PCOSM00277,Producto Revlon 429,Neutrogena,Protección solar,Extracto de té verde,71.94,Brasil,2024,Distribuidor
+PCOSM00278,Producto Revlon 767,Clinique,Fragancias,Vitamina C,53.39,Francia,2020,Marketplace
+PCOSM00279,Producto Lancôme 518,Lancôme,Protección solar,Colágeno,37.29,Francia,2005,E-commerce
+PCOSM00280,Producto Neutrogena 846,NARS,Fragancias,Ácido hialurónico,69.21,Canadá,2006,Retail
+PCOSM00281,Producto NARS 195,Revlon,Protección solar,Extracto de té verde,94.82,Corea del Sur,2011,Marketplace
+PCOSM00282,Producto Clinique 229,Estée Lauder,Fragancias,Retinol,43.82,Japón,2015,Marketplace
+PCOSM00283,Producto Estée Lauder 165,MAC,Protección solar,Colágeno,94.67,Estados Unidos,2010,Distribuidor
+PCOSM00284,Producto Estée Lauder 995,Dior,Maquillaje,Vitamina C,72.23,Francia,2007,Retail
+PCOSM00285,Producto NARS 365,Lancôme,Maquillaje,Ácido hialurónico,40.81,Colombia,2017,Marketplace
+PCOSM00286,Producto Neutrogena 719,Estée Lauder,Fragancias,Aceite de argán,89.63,Alemania,2010,E-commerce
+PCOSM00287,Producto Maybelline 506,Dior,Maquillaje,Retinol,105.16,Estados Unidos,2024,E-commerce
+PCOSM00288,Producto NARS 441,Estée Lauder,Fragancias,Colágeno,51.16,Japón,2016,Distribuidor
+PCOSM00289,Producto Estée Lauder 227,L'Oréal,Cuidado capilar,Aceite de argán,10.45,Brasil,2007,Marketplace
+PCOSM00290,Producto Neutrogena 831,Estée Lauder,Protección solar,Retinol,55.18,Francia,2013,E-commerce
+PCOSM00291,Producto Neutrogena 351,Revlon,Cuidado capilar,Niacinamida,70.18,Japón,2024,Distribuidor
+PCOSM00292,Producto Maybelline 3,MAC,Cuidado capilar,Colágeno,43.37,Canadá,2021,Distribuidor
+PCOSM00293,Producto Estée Lauder 261,Neutrogena,Cuidado de la piel,Extracto de té verde,101.73,Alemania,2024,Marketplace
+PCOSM00294,Producto MAC 944,Neutrogena,Maquillaje,Aceite de argán,76.55,Alemania,2014,Catálogo
+PCOSM00295,Producto Estée Lauder 182,Lancôme,Cuidado capilar,Vitamina C,53.46,Alemania,2010,Retail
+PCOSM00296,Producto Neutrogena 647,Clinique,Maquillaje,Aloe vera,68.21,Francia,2015,Retail
+PCOSM00297,Producto MAC 762,Clinique,Maquillaje,Ácido hialurónico,83.13,Brasil,2023,Marketplace
+PCOSM00298,Producto Dior 643,L'Oréal,Fragancias,Vitamina C,5.07,Estados Unidos,2017,Marketplace
+PCOSM00299,Producto Estée Lauder 437,Lancôme,Cuidado capilar,Retinol,63.06,Alemania,2018,Catálogo
+PCOSM00300,Producto Clinique 953,Clinique,Maquillaje,Colágeno,77.03,Francia,2008,Distribuidor
+PCOSM00301,Producto Maybelline 490,Lancôme,Cuidado capilar,Ácido hialurónico,99.89,Japón,2019,E-commerce
+PCOSM00302,Producto Dior 335,Neutrogena,Maquillaje,Extracto de té verde,74.33,Alemania,2022,Catálogo
+PCOSM00303,Producto Neutrogena 752,MAC,Cuidado de la piel,Niacinamida,74.19,Canadá,2009,Marketplace
+PCOSM00304,Producto NARS 396,Neutrogena,Protección solar,Aceite de argán,7.75,Brasil,2023,E-commerce
+PCOSM00305,Producto NARS 747,Estée Lauder,Maquillaje,Retinol,112.16,Colombia,2013,Marketplace
+PCOSM00306,Producto Estée Lauder 93,Clinique,Cuidado de la piel,Ácido hialurónico,85.63,Brasil,2019,Catálogo
+PCOSM00307,Producto Estée Lauder 348,Clinique,Protección solar,Vitamina C,111.26,Japón,2022,Retail
+PCOSM00308,Producto Clinique 157,Clinique,Fragancias,Retinol,118.46,Estados Unidos,2012,Marketplace
+PCOSM00309,Producto Revlon 784,Maybelline,Maquillaje,Vitamina C,59.37,Colombia,2012,Retail
+PCOSM00310,Producto Revlon 388,Revlon,Fragancias,Ácido hialurónico,39.55,Alemania,2021,E-commerce
+PCOSM00311,Producto Neutrogena 255,L'Oréal,Cuidado de la piel,Aloe vera,59.18,Estados Unidos,2021,Marketplace
+PCOSM00312,Producto L'Oréal 648,Dior,Fragancias,Aceite de argán,45.76,Alemania,2009,Distribuidor
+PCOSM00313,Producto Revlon 576,Lancôme,Cuidado capilar,Ácido hialurónico,90.97,Canadá,2005,Marketplace
+PCOSM00314,Producto Revlon 769,Lancôme,Cuidado de la piel,Aceite de argán,35.94,Colombia,2022,Distribuidor
+PCOSM00315,Producto Maybelline 275,Dior,Maquillaje,Aloe vera,7.55,Corea del Sur,2016,E-commerce
+PCOSM00316,Producto L'Oréal 31,Clinique,Fragancias,Aceite de argán,34.9,Canadá,2018,Retail
+PCOSM00317,Producto Maybelline 123,Revlon,Protección solar,Colágeno,43.42,Francia,2010,Retail
+PCOSM00318,Producto Dior 531,Dior,Cuidado capilar,Aloe vera,83.11,Estados Unidos,2019,Retail
+PCOSM00319,Producto L'Oréal 303,Clinique,Fragancias,Extracto de té verde,17.81,Francia,2009,E-commerce
+PCOSM00320,Producto Clinique 164,Revlon,Protección solar,Vitamina C,5.35,Corea del Sur,2015,Retail
+PCOSM00321,Producto Clinique 509,L'Oréal,Fragancias,Extracto de té verde,117.25,Francia,2011,Catálogo
+PCOSM00322,Producto MAC 634,MAC,Cuidado de la piel,Extracto de té verde,70.54,Brasil,2014,Marketplace
+PCOSM00323,Producto Clinique 54,Maybelline,Cuidado capilar,Extracto de té verde,116.85,Estados Unidos,2005,Retail
+PCOSM00324,Producto NARS 264,NARS,Maquillaje,Extracto de té verde,29.71,Canadá,2007,Distribuidor
+PCOSM00325,Producto Dior 920,Revlon,Protección solar,Extracto de té verde,30.31,Alemania,2017,Retail
+PCOSM00326,Producto Dior 271,NARS,Fragancias,Retinol,119.46,Francia,2009,Marketplace
+PCOSM00327,Producto Estée Lauder 16,Clinique,Fragancias,Vitamina C,57.1,Alemania,2016,Retail
+PCOSM00328,Producto Clinique 294,Lancôme,Cuidado capilar,Ácido hialurónico,60.24,Estados Unidos,2016,E-commerce
+PCOSM00329,Producto Dior 25,Clinique,Protección solar,Aloe vera,41.26,Estados Unidos,2010,Marketplace
+PCOSM00330,Producto Clinique 101,MAC,Cuidado capilar,Aloe vera,58.06,Francia,2008,E-commerce
+PCOSM00331,Producto Dior 758,Neutrogena,Maquillaje,Colágeno,35.67,Estados Unidos,2022,Distribuidor
+PCOSM00332,Producto Estée Lauder 694,MAC,Cuidado de la piel,Niacinamida,74.66,Canadá,2007,Retail
+PCOSM00333,Producto MAC 244,Dior,Cuidado capilar,Aceite de argán,35.99,Colombia,2017,Distribuidor
+PCOSM00334,Producto L'Oréal 779,Estée Lauder,Cuidado capilar,Aloe vera,25.67,Alemania,2007,E-commerce
+PCOSM00335,Producto Estée Lauder 920,Maybelline,Fragancias,Extracto de té verde,79.3,Canadá,2017,Marketplace
+PCOSM00336,Producto Lancôme 701,MAC,Cuidado de la piel,Retinol,45.24,Canadá,2020,Retail
+PCOSM00337,Producto Dior 258,Dior,Fragancias,Extracto de té verde,94.33,Corea del Sur,2022,Catálogo
+PCOSM00338,Producto MAC 420,Lancôme,Fragancias,Ácido hialurónico,64.14,Japón,2017,Distribuidor
+PCOSM00339,Producto Estée Lauder 24,Estée Lauder,Fragancias,Extracto de té verde,104.86,Colombia,2010,E-commerce
+PCOSM00340,Producto Dior 30,L'Oréal,Fragancias,Aceite de argán,37.53,Brasil,2010,Marketplace
+PCOSM00341,Producto Dior 733,Lancôme,Maquillaje,Ácido hialurónico,14.53,Estados Unidos,2012,Marketplace
+PCOSM00342,Producto Estée Lauder 253,Dior,Protección solar,Colágeno,66.8,Estados Unidos,2016,Catálogo
+PCOSM00343,Producto Revlon 74,Neutrogena,Fragancias,Ácido hialurónico,13.46,Alemania,2005,Retail
+PCOSM00344,Producto Revlon 345,NARS,Maquillaje,Extracto de té verde,36.27,Francia,2015,Catálogo
+PCOSM00345,Producto Revlon 693,MAC,Cuidado de la piel,Aceite de argán,79.49,Brasil,2009,Catálogo
+PCOSM00346,Producto Neutrogena 438,Lancôme,Fragancias,Niacinamida,41.36,Alemania,2024,Catálogo
+PCOSM00347,Producto Estée Lauder 721,MAC,Cuidado capilar,Ácido hialurónico,17.32,Japón,2005,E-commerce
+PCOSM00348,Producto Clinique 902,Clinique,Fragancias,Retinol,79.43,Francia,2019,E-commerce
+PCOSM00349,Producto MAC 466,Dior,Protección solar,Colágeno,104.65,Brasil,2007,Catálogo
+PCOSM00350,Producto L'Oréal 92,MAC,Protección solar,Ácido hialurónico,10.65,Corea del Sur,2023,E-commerce
+PCOSM00351,Producto Lancôme 801,NARS,Fragancias,Extracto de té verde,83.91,Estados Unidos,2015,E-commerce
+PCOSM00352,Producto Neutrogena 358,NARS,Maquillaje,Retinol,34.53,Alemania,2016,Marketplace
+PCOSM00353,Producto Revlon 159,Clinique,Cuidado capilar,Aloe vera,55.67,Japón,2006,Catálogo
+PCOSM00354,Producto Estée Lauder 921,Estée Lauder,Cuidado de la piel,Retinol,110.23,Colombia,2006,Marketplace
+PCOSM00355,Producto Estée Lauder 879,Revlon,Cuidado capilar,Ácido hialurónico,20.82,Brasil,2011,Distribuidor
+PCOSM00356,Producto Maybelline 137,Neutrogena,Cuidado de la piel,Retinol,35.79,Brasil,2016,Distribuidor
+PCOSM00357,Producto L'Oréal 238,Neutrogena,Cuidado de la piel,Ácido hialurónico,13.56,Colombia,2007,Catálogo
+PCOSM00358,Producto Revlon 38,NARS,Maquillaje,Aloe vera,118.37,Canadá,2020,Distribuidor
+PCOSM00359,Producto Estée Lauder 66,Dior,Protección solar,Aceite de argán,80.79,Canadá,2024,Catálogo
+PCOSM00360,Producto Revlon 171,NARS,Cuidado capilar,Niacinamida,76.75,Japón,2011,Retail
+PCOSM00361,Producto Neutrogena 325,Clinique,Cuidado capilar,Niacinamida,98.49,Alemania,2014,Marketplace
+PCOSM00362,Producto Maybelline 288,NARS,Protección solar,Vitamina C,63.5,Colombia,2015,Catálogo
+PCOSM00363,Producto NARS 70,Maybelline,Protección solar,Aceite de argán,118.39,Estados Unidos,2006,Retail
+PCOSM00364,Producto NARS 412,MAC,Protección solar,Aceite de argán,102.06,Japón,2007,Marketplace
+PCOSM00365,Producto Dior 208,Estée Lauder,Cuidado capilar,Extracto de té verde,71.66,Japón,2016,Retail
+PCOSM00366,Producto Neutrogena 80,Clinique,Cuidado de la piel,Aloe vera,37.21,Francia,2009,Retail
+PCOSM00367,Producto Neutrogena 980,Neutrogena,Cuidado capilar,Aloe vera,91.01,Brasil,2008,Distribuidor
+PCOSM00368,Producto Maybelline 509,Clinique,Cuidado de la piel,Niacinamida,45.2,Alemania,2014,Marketplace
+PCOSM00369,Producto Estée Lauder 679,Estée Lauder,Protección solar,Aceite de argán,75.91,Brasil,2019,Marketplace
+PCOSM00370,Producto Estée Lauder 236,Dior,Cuidado capilar,Niacinamida,26.97,Francia,2008,E-commerce
+PCOSM00371,Producto Lancôme 342,Clinique,Cuidado capilar,Ácido hialurónico,92.61,Brasil,2005,E-commerce
+PCOSM00372,Producto NARS 452,NARS,Maquillaje,Ácido hialurónico,78.63,Japón,2007,Distribuidor
+PCOSM00373,Producto Lancôme 309,Dior,Cuidado capilar,Extracto de té verde,26.87,Japón,2016,Marketplace
+PCOSM00374,Producto Neutrogena 159,Dior,Maquillaje,Extracto de té verde,91.1,Canadá,2005,Distribuidor
+PCOSM00375,Producto L'Oréal 142,NARS,Maquillaje,Extracto de té verde,93.05,Corea del Sur,2024,E-commerce
+PCOSM00376,Producto Revlon 752,Clinique,Maquillaje,Aceite de argán,112.43,Francia,2006,Retail
+PCOSM00377,Producto L'Oréal 113,L'Oréal,Cuidado de la piel,Aloe vera,96.21,Estados Unidos,2016,E-commerce
+PCOSM00378,Producto Maybelline 497,Lancôme,Cuidado de la piel,Extracto de té verde,105.19,Japón,2022,Marketplace
+PCOSM00379,Producto NARS 70,Clinique,Fragancias,Aceite de argán,76.72,Colombia,2018,E-commerce
+PCOSM00380,Producto NARS 267,Estée Lauder,Cuidado capilar,Colágeno,112.76,Estados Unidos,2011,Distribuidor
+PCOSM00381,Producto Dior 68,Lancôme,Protección solar,Extracto de té verde,71.88,Estados Unidos,2021,E-commerce
+PCOSM00382,Producto L'Oréal 591,NARS,Cuidado capilar,Aceite de argán,26.61,Canadá,2013,Retail
+PCOSM00383,Producto Revlon 778,Lancôme,Cuidado de la piel,Aceite de argán,51.7,Brasil,2013,E-commerce
+PCOSM00384,Producto MAC 458,NARS,Cuidado de la piel,Colágeno,43.22,Colombia,2006,Distribuidor
+PCOSM00385,Producto L'Oréal 345,Neutrogena,Protección solar,Ácido hialurónico,22.66,Colombia,2007,Catálogo
+PCOSM00386,Producto Estée Lauder 878,Lancôme,Maquillaje,Niacinamida,23.26,Japón,2017,Catálogo
+PCOSM00387,Producto L'Oréal 89,Maybelline,Cuidado de la piel,Aloe vera,117.01,Colombia,2022,Retail
+PCOSM00388,Producto Clinique 649,Maybelline,Cuidado capilar,Niacinamida,59.91,Francia,2024,Distribuidor
+PCOSM00389,Producto NARS 759,NARS,Cuidado capilar,Extracto de té verde,53.18,Estados Unidos,2022,Retail
+PCOSM00390,Producto Maybelline 673,Clinique,Cuidado de la piel,Aceite de argán,91.93,Brasil,2019,E-commerce
+PCOSM00391,Producto Dior 39,Lancôme,Maquillaje,Aceite de argán,41.39,Canadá,2013,Marketplace
+PCOSM00392,Producto Revlon 720,Estée Lauder,Cuidado capilar,Ácido hialurónico,106.83,Francia,2013,Catálogo
+PCOSM00393,Producto Maybelline 546,Dior,Fragancias,Aloe vera,113.78,Francia,2018,Retail
+PCOSM00394,Producto Dior 841,Estée Lauder,Maquillaje,Ácido hialurónico,58.66,Francia,2012,Marketplace
+PCOSM00395,Producto L'Oréal 756,Dior,Cuidado capilar,Extracto de té verde,8.71,Japón,2024,E-commerce
+PCOSM00396,Producto Lancôme 237,Estée Lauder,Fragancias,Retinol,29.49,Francia,2016,Marketplace
+PCOSM00397,Producto Dior 84,Clinique,Cuidado de la piel,Niacinamida,88.96,Estados Unidos,2024,Retail
+PCOSM00398,Producto Lancôme 518,Estée Lauder,Fragancias,Vitamina C,24.93,Brasil,2023,Retail
+PCOSM00399,Producto Revlon 732,MAC,Maquillaje,Aloe vera,92.5,Colombia,2011,Distribuidor
+PCOSM00400,Producto Maybelline 512,Maybelline,Cuidado capilar,Colágeno,26.99,Francia,2010,Retail
+PCOSM00401,Producto NARS 531,Lancôme,Maquillaje,Ácido hialurónico,59.42,Canadá,2024,Retail
+PCOSM00402,Producto NARS 344,Revlon,Protección solar,Niacinamida,112.7,Alemania,2011,Catálogo
+PCOSM00403,Producto NARS 630,Estée Lauder,Protección solar,Colágeno,113.47,Alemania,2019,Distribuidor
+PCOSM00404,Producto Revlon 561,Lancôme,Protección solar,Colágeno,42.07,Francia,2018,Catálogo
+PCOSM00405,Producto Dior 136,Lancôme,Fragancias,Aceite de argán,46.49,Japón,2019,Retail
+PCOSM00406,Producto NARS 361,Clinique,Maquillaje,Retinol,5.68,Brasil,2020,E-commerce
+PCOSM00407,Producto Estée Lauder 511,Maybelline,Fragancias,Extracto de té verde,24.53,Colombia,2015,E-commerce
+PCOSM00408,Producto Neutrogena 765,MAC,Cuidado capilar,Aloe vera,44.42,Brasil,2011,E-commerce
+PCOSM00409,Producto Revlon 506,Estée Lauder,Cuidado capilar,Retinol,98,Canadá,2013,Retail
+PCOSM00410,Producto Clinique 154,NARS,Cuidado de la piel,Extracto de té verde,15.96,Japón,2008,Marketplace
+PCOSM00411,Producto Neutrogena 124,Clinique,Maquillaje,Vitamina C,110.62,Alemania,2012,E-commerce
+PCOSM00412,Producto Revlon 483,Revlon,Fragancias,Niacinamida,14.57,Estados Unidos,2017,Catálogo
+PCOSM00413,Producto Estée Lauder 207,MAC,Cuidado capilar,Aloe vera,95.81,Alemania,2014,Retail
+PCOSM00414,Producto NARS 958,Neutrogena,Cuidado de la piel,Vitamina C,67.61,Brasil,2005,Distribuidor
+PCOSM00415,Producto Clinique 980,NARS,Protección solar,Vitamina C,11.37,Japón,2023,Catálogo
+PCOSM00416,Producto Dior 554,L'Oréal,Cuidado capilar,Vitamina C,100.75,Canadá,2014,Catálogo
+PCOSM00417,Producto L'Oréal 320,Dior,Cuidado de la piel,Vitamina C,51.65,Japón,2020,Catálogo
+PCOSM00418,Producto Dior 9,Clinique,Maquillaje,Niacinamida,90.13,Corea del Sur,2019,Marketplace
+PCOSM00419,Producto NARS 80,Neutrogena,Maquillaje,Vitamina C,73.73,Colombia,2013,E-commerce
+PCOSM00420,Producto Estée Lauder 443,Clinique,Cuidado capilar,Aloe vera,57.16,Corea del Sur,2006,Catálogo
+PCOSM00421,Producto Estée Lauder 171,L'Oréal,Maquillaje,Ácido hialurónico,111.67,Brasil,2019,Retail
+PCOSM00422,Producto Lancôme 391,L'Oréal,Cuidado de la piel,Niacinamida,73.05,Japón,2019,Catálogo
+PCOSM00423,Producto L'Oréal 42,Lancôme,Maquillaje,Niacinamida,88.33,Canadá,2022,E-commerce
+PCOSM00424,Producto Maybelline 446,Revlon,Cuidado capilar,Ácido hialurónico,84.99,Francia,2016,Retail
+PCOSM00425,Producto L'Oréal 671,Dior,Fragancias,Vitamina C,29.75,Brasil,2011,Catálogo
+PCOSM00426,Producto L'Oréal 502,Clinique,Maquillaje,Ácido hialurónico,82.26,Japón,2007,E-commerce
+PCOSM00427,Producto L'Oréal 677,MAC,Cuidado de la piel,Vitamina C,104.76,Colombia,2014,Retail
+PCOSM00428,Producto Neutrogena 576,L'Oréal,Cuidado capilar,Niacinamida,22.95,Brasil,2022,Marketplace
+PCOSM00429,Producto MAC 753,Lancôme,Cuidado de la piel,Retinol,88.24,Brasil,2017,Retail
+PCOSM00430,Producto Dior 519,MAC,Fragancias,Niacinamida,111.63,Francia,2022,Marketplace
+PCOSM00431,Producto Clinique 768,Neutrogena,Protección solar,Extracto de té verde,80.7,Corea del Sur,2005,Catálogo
+PCOSM00432,Producto Maybelline 778,NARS,Protección solar,Vitamina C,76.62,Estados Unidos,2024,Distribuidor
+PCOSM00433,Producto Maybelline 565,Dior,Cuidado de la piel,Extracto de té verde,97.66,Alemania,2020,Retail
+PCOSM00434,Producto Revlon 615,MAC,Protección solar,Aloe vera,109.58,Canadá,2012,Distribuidor
+PCOSM00435,Producto NARS 727,Dior,Cuidado capilar,Extracto de té verde,108.17,Francia,2019,Marketplace
+PCOSM00436,Producto Estée Lauder 952,Maybelline,Cuidado de la piel,Niacinamida,40.5,Alemania,2008,Catálogo
+PCOSM00437,Producto L'Oréal 624,Clinique,Fragancias,Niacinamida,68.69,Japón,2014,E-commerce
+PCOSM00438,Producto Neutrogena 509,MAC,Cuidado de la piel,Niacinamida,44.43,Brasil,2005,Distribuidor
+PCOSM00439,Producto Lancôme 651,Revlon,Cuidado capilar,Aloe vera,31.28,Francia,2017,Retail
+PCOSM00440,Producto Revlon 581,Clinique,Protección solar,Aceite de argán,117.54,Estados Unidos,2006,Catálogo
+PCOSM00441,Producto Estée Lauder 696,Neutrogena,Cuidado de la piel,Extracto de té verde,91.45,Japón,2024,Distribuidor
+PCOSM00442,Producto Revlon 701,Clinique,Cuidado de la piel,Colágeno,91.28,Francia,2022,Retail
+PCOSM00443,Producto Lancôme 6,Clinique,Cuidado capilar,Aceite de argán,116.29,Alemania,2006,E-commerce
+PCOSM00444,Producto Dior 19,Dior,Cuidado capilar,Retinol,110.16,Estados Unidos,2013,Retail
+PCOSM00445,Producto Clinique 584,Dior,Protección solar,Extracto de té verde,78.38,Brasil,2022,Distribuidor
+PCOSM00446,Producto Maybelline 563,Maybelline,Fragancias,Aloe vera,16.25,Brasil,2013,Marketplace
+PCOSM00447,Producto MAC 761,Neutrogena,Cuidado capilar,Retinol,62.52,Alemania,2018,Retail
+PCOSM00448,Producto Lancôme 116,Clinique,Fragancias,Colágeno,98.5,Alemania,2006,Catálogo
+PCOSM00449,Producto MAC 789,Clinique,Cuidado capilar,Retinol,58.31,Japón,2019,Catálogo
+PCOSM00450,Producto L'Oréal 699,Estée Lauder,Cuidado capilar,Ácido hialurónico,42.6,Japón,2011,Catálogo
+PCOSM00451,Producto NARS 38,Revlon,Fragancias,Colágeno,95.48,Brasil,2010,E-commerce
+PCOSM00452,Producto Revlon 247,Maybelline,Fragancias,Retinol,73.55,Corea del Sur,2016,Retail
+PCOSM00453,Producto Maybelline 292,NARS,Cuidado de la piel,Retinol,24.65,Brasil,2014,Distribuidor
+PCOSM00454,Producto Lancôme 995,Dior,Fragancias,Aceite de argán,54.14,Estados Unidos,2008,Marketplace
+PCOSM00455,Producto Neutrogena 32,L'Oréal,Maquillaje,Aloe vera,43.96,Estados Unidos,2023,E-commerce
+PCOSM00456,Producto Revlon 473,Lancôme,Cuidado de la piel,Vitamina C,69.61,Brasil,2013,Retail
+PCOSM00457,Producto Revlon 322,MAC,Fragancias,Vitamina C,15.72,Francia,2007,Catálogo
+PCOSM00458,Producto Estée Lauder 198,Maybelline,Maquillaje,Retinol,98.9,Corea del Sur,2016,E-commerce
+PCOSM00459,Producto Neutrogena 532,Revlon,Fragancias,Retinol,68.84,Francia,2011,Marketplace
+PCOSM00460,Producto Clinique 646,Estée Lauder,Cuidado de la piel,Aceite de argán,39.33,Brasil,2016,Catálogo
+PCOSM00461,Producto Estée Lauder 26,Dior,Cuidado capilar,Ácido hialurónico,74.67,Alemania,2011,Catálogo
+PCOSM00462,Producto Clinique 172,Dior,Fragancias,Extracto de té verde,101.06,Alemania,2005,Catálogo
+PCOSM00463,Producto NARS 946,Revlon,Maquillaje,Aloe vera,109.85,Francia,2016,Marketplace
+PCOSM00464,Producto Dior 301,Neutrogena,Fragancias,Retinol,47.14,Alemania,2010,Retail
+PCOSM00465,Producto Maybelline 225,NARS,Maquillaje,Ácido hialurónico,25.5,Francia,2024,Marketplace
+PCOSM00466,Producto Revlon 146,Dior,Maquillaje,Colágeno,93.5,Brasil,2021,Catálogo
+PCOSM00467,Producto Maybelline 525,Maybelline,Fragancias,Vitamina C,98.97,Alemania,2013,Marketplace
+PCOSM00468,Producto Neutrogena 432,L'Oréal,Cuidado capilar,Vitamina C,17.7,Francia,2016,Catálogo
+PCOSM00469,Producto Revlon 183,Revlon,Cuidado de la piel,Niacinamida,39.35,Japón,2021,Distribuidor
+PCOSM00470,Producto Revlon 909,Maybelline,Cuidado capilar,Aloe vera,58.65,Corea del Sur,2005,E-commerce
+PCOSM00471,Producto Dior 59,Lancôme,Cuidado capilar,Vitamina C,30.67,Canadá,2011,Retail
+PCOSM00472,Producto Lancôme 135,MAC,Maquillaje,Niacinamida,57.96,Corea del Sur,2021,E-commerce
+PCOSM00473,Producto NARS 367,MAC,Cuidado capilar,Ácido hialurónico,23.19,Japón,2016,Retail
+PCOSM00474,Producto Lancôme 417,Maybelline,Cuidado de la piel,Aloe vera,48.66,Estados Unidos,2018,Marketplace
+PCOSM00475,Producto Maybelline 80,NARS,Fragancias,Vitamina C,111.62,Brasil,2006,Marketplace
+PCOSM00476,Producto MAC 536,MAC,Fragancias,Colágeno,67.34,Corea del Sur,2007,Catálogo
+PCOSM00477,Producto Lancôme 922,Maybelline,Fragancias,Extracto de té verde,115.55,Estados Unidos,2018,Catálogo
+PCOSM00478,Producto MAC 612,MAC,Fragancias,Aceite de argán,95.06,Corea del Sur,2015,Distribuidor
+PCOSM00479,Producto Revlon 311,Estée Lauder,Cuidado capilar,Colágeno,42.55,Colombia,2024,E-commerce
+PCOSM00480,Producto Revlon 172,Estée Lauder,Protección solar,Retinol,11.13,Estados Unidos,2024,E-commerce
+PCOSM00481,Producto Lancôme 213,Revlon,Maquillaje,Extracto de té verde,116.39,Francia,2014,E-commerce
+PCOSM00482,Producto Dior 250,Estée Lauder,Cuidado capilar,Ácido hialurónico,82.95,Corea del Sur,2024,Marketplace
+PCOSM00483,Producto Lancôme 393,NARS,Fragancias,Vitamina C,11.1,Estados Unidos,2016,Catálogo
+PCOSM00484,Producto Dior 475,NARS,Protección solar,Retinol,51.92,Francia,2010,Retail
+PCOSM00485,Producto NARS 686,Lancôme,Fragancias,Colágeno,33.89,Corea del Sur,2009,Retail
+PCOSM00486,Producto Dior 271,Clinique,Cuidado capilar,Ácido hialurónico,40.33,Canadá,2024,E-commerce
+PCOSM00487,Producto MAC 802,Clinique,Cuidado capilar,Aceite de argán,92.46,Colombia,2016,Catálogo
+PCOSM00488,Producto Clinique 287,Revlon,Cuidado de la piel,Ácido hialurónico,82.36,Francia,2021,Marketplace
+PCOSM00489,Producto Revlon 923,Lancôme,Cuidado de la piel,Aloe vera,117.37,Francia,2015,Marketplace
+PCOSM00490,Producto Dior 944,Clinique,Cuidado de la piel,Colágeno,52.46,Francia,2008,Catálogo
+PCOSM00491,Producto NARS 339,Clinique,Cuidado capilar,Vitamina C,48.58,Corea del Sur,2011,Marketplace
+PCOSM00492,Producto Maybelline 895,L'Oréal,Cuidado capilar,Aloe vera,91.65,Corea del Sur,2020,E-commerce
+PCOSM00493,Producto Clinique 168,Dior,Cuidado capilar,Vitamina C,45.52,Brasil,2021,E-commerce
+PCOSM00494,Producto NARS 680,Lancôme,Protección solar,Extracto de té verde,100.33,Colombia,2019,Distribuidor
+PCOSM00495,Producto Lancôme 745,Lancôme,Cuidado de la piel,Colágeno,28.11,Canadá,2022,Marketplace
+PCOSM00496,Producto Maybelline 93,MAC,Protección solar,Niacinamida,10.63,Corea del Sur,2014,Distribuidor
+PCOSM00497,Producto Estée Lauder 464,Revlon,Cuidado de la piel,Niacinamida,111.21,Corea del Sur,2024,Retail
+PCOSM00498,Producto Dior 803,MAC,Fragancias,Extracto de té verde,53.51,Japón,2014,Marketplace
+PCOSM00499,Producto Neutrogena 335,Neutrogena,Cuidado de la piel,Aloe vera,39.52,Estados Unidos,2013,Marketplace
+PCOSM00500,Producto Clinique 290,Dior,Maquillaje,Aceite de argán,118.27,Estados Unidos,2015,E-commerce
+PCOSM00501,Producto MAC 835,MAC,Cuidado de la piel,Aloe vera,47.03,Alemania,2023,Marketplace
+PCOSM00502,Producto Neutrogena 642,Lancôme,Cuidado de la piel,Ácido hialurónico,10.72,Colombia,2005,Catálogo
+PCOSM00503,Producto Lancôme 431,Dior,Fragancias,Niacinamida,69.9,Brasil,2011,Marketplace
+PCOSM00504,Producto Clinique 242,Clinique,Cuidado capilar,Extracto de té verde,58.68,Canadá,2012,Catálogo
+PCOSM00505,Producto Estée Lauder 700,NARS,Protección solar,Vitamina C,65.91,Canadá,2011,E-commerce
+PCOSM00506,Producto Neutrogena 468,Maybelline,Cuidado capilar,Aloe vera,29.27,Francia,2007,E-commerce
+PCOSM00507,Producto Revlon 124,Neutrogena,Cuidado capilar,Aloe vera,106.66,Francia,2011,Catálogo
+PCOSM00508,Producto Clinique 145,Neutrogena,Protección solar,Aceite de argán,81.65,Estados Unidos,2009,Retail
+PCOSM00509,Producto Dior 466,NARS,Cuidado capilar,Aceite de argán,53.67,Francia,2024,E-commerce
+PCOSM00510,Producto Maybelline 297,MAC,Cuidado capilar,Colágeno,45.12,Corea del Sur,2022,Retail
+PCOSM00511,Producto MAC 581,MAC,Maquillaje,Ácido hialurónico,57.08,Colombia,2024,Marketplace
+PCOSM00512,Producto L'Oréal 74,Neutrogena,Protección solar,Ácido hialurónico,25.45,Canadá,2017,Distribuidor
+PCOSM00513,Producto Dior 106,Revlon,Cuidado capilar,Niacinamida,74.38,Alemania,2008,Distribuidor
+PCOSM00514,Producto Revlon 688,Clinique,Cuidado capilar,Colágeno,46.61,Japón,2021,Catálogo
+PCOSM00515,Producto Clinique 266,Neutrogena,Protección solar,Extracto de té verde,114.35,Canadá,2022,Retail
+PCOSM00516,Producto Revlon 875,Lancôme,Fragancias,Vitamina C,54.47,Francia,2007,Retail
+PCOSM00517,Producto Dior 161,Neutrogena,Fragancias,Aceite de argán,51.86,Japón,2016,Catálogo
+PCOSM00518,Producto L'Oréal 734,NARS,Protección solar,Extracto de té verde,33.9,Estados Unidos,2009,Marketplace
+PCOSM00519,Producto Dior 496,Revlon,Fragancias,Vitamina C,53.57,Alemania,2022,Marketplace
+PCOSM00520,Producto Revlon 11,Neutrogena,Cuidado de la piel,Aceite de argán,107.59,Alemania,2007,Catálogo
+PCOSM00521,Producto Maybelline 759,Neutrogena,Cuidado de la piel,Retinol,97.44,Canadá,2016,Catálogo
+PCOSM00522,Producto Maybelline 914,L'Oréal,Cuidado capilar,Vitamina C,65.12,Francia,2022,Catálogo
+PCOSM00523,Producto MAC 677,MAC,Fragancias,Niacinamida,78.32,Colombia,2012,Catálogo
+PCOSM00524,Producto Lancôme 233,Estée Lauder,Maquillaje,Aceite de argán,96.25,Corea del Sur,2014,Distribuidor
+PCOSM00525,Producto NARS 720,Maybelline,Cuidado capilar,Extracto de té verde,94.37,Estados Unidos,2022,E-commerce
+PCOSM00526,Producto Clinique 619,Maybelline,Fragancias,Niacinamida,24.83,Alemania,2010,E-commerce
+PCOSM00527,Producto L'Oréal 682,Estée Lauder,Protección solar,Colágeno,65.72,Alemania,2018,Distribuidor
+PCOSM00528,Producto Estée Lauder 712,NARS,Protección solar,Niacinamida,38.01,Corea del Sur,2007,Marketplace
+PCOSM00529,Producto MAC 659,Maybelline,Cuidado de la piel,Vitamina C,116.25,Estados Unidos,2010,Distribuidor
+PCOSM00530,Producto Maybelline 751,Maybelline,Cuidado capilar,Extracto de té verde,19.13,Francia,2010,Retail
+PCOSM00531,Producto Neutrogena 50,Lancôme,Cuidado capilar,Extracto de té verde,33.52,Colombia,2019,Retail
+PCOSM00532,Producto Estée Lauder 877,Revlon,Cuidado capilar,Extracto de té verde,41.81,Francia,2015,Distribuidor
+PCOSM00533,Producto Dior 653,Lancôme,Protección solar,Aceite de argán,59.53,Canadá,2015,E-commerce
+PCOSM00534,Producto NARS 494,Neutrogena,Cuidado capilar,Extracto de té verde,84.66,Francia,2015,E-commerce
+PCOSM00535,Producto NARS 469,Neutrogena,Cuidado de la piel,Vitamina C,19.7,Corea del Sur,2024,Retail
+PCOSM00536,Producto Revlon 869,Lancôme,Cuidado de la piel,Aceite de argán,95.31,Colombia,2005,Catálogo
+PCOSM00537,Producto Estée Lauder 246,Maybelline,Cuidado capilar,Aloe vera,102.8,Francia,2020,Distribuidor
+PCOSM00538,Producto Lancôme 216,Estée Lauder,Cuidado de la piel,Niacinamida,16.15,Corea del Sur,2019,Distribuidor
+PCOSM00539,Producto Maybelline 309,Dior,Cuidado capilar,Retinol,34.34,Brasil,2007,Distribuidor
+PCOSM00540,Producto NARS 652,Dior,Cuidado de la piel,Colágeno,26.93,Brasil,2013,Retail
+PCOSM00541,Producto Estée Lauder 378,NARS,Cuidado capilar,Aceite de argán,86.81,Brasil,2020,E-commerce
+PCOSM00542,Producto Dior 35,Maybelline,Fragancias,Aloe vera,80.01,Canadá,2011,Retail
+PCOSM00543,Producto Revlon 895,Dior,Protección solar,Extracto de té verde,118.79,Estados Unidos,2008,Retail
+PCOSM00544,Producto Neutrogena 960,Dior,Cuidado capilar,Colágeno,30.85,Estados Unidos,2014,Catálogo
+PCOSM00545,Producto Clinique 954,Dior,Cuidado capilar,Aceite de argán,47.79,Estados Unidos,2011,Marketplace
+PCOSM00546,Producto L'Oréal 724,Lancôme,Fragancias,Colágeno,7.41,Estados Unidos,2017,Catálogo
+PCOSM00547,Producto Clinique 85,Estée Lauder,Maquillaje,Aceite de argán,55.17,Colombia,2019,Catálogo
+PCOSM00548,Producto L'Oréal 200,Estée Lauder,Protección solar,Extracto de té verde,9.62,Estados Unidos,2024,Catálogo
+PCOSM00549,Producto Dior 583,Revlon,Protección solar,Extracto de té verde,33.48,Corea del Sur,2008,Retail
+PCOSM00550,Producto Clinique 651,Lancôme,Protección solar,Ácido hialurónico,83.05,Alemania,2016,E-commerce
+PCOSM00551,Producto Neutrogena 310,NARS,Cuidado de la piel,Aceite de argán,117.38,Estados Unidos,2009,Retail
+PCOSM00552,Producto MAC 268,Revlon,Maquillaje,Retinol,20.82,Brasil,2020,Retail
+PCOSM00553,Producto Dior 726,Clinique,Maquillaje,Niacinamida,94.72,Alemania,2011,Retail
+PCOSM00554,Producto NARS 513,Lancôme,Cuidado capilar,Aloe vera,102.03,Japón,2011,E-commerce
+PCOSM00555,Producto NARS 396,Estée Lauder,Cuidado de la piel,Vitamina C,65.04,Francia,2020,Marketplace
+PCOSM00556,Producto L'Oréal 307,Neutrogena,Maquillaje,Colágeno,23.9,Colombia,2010,Catálogo
+PCOSM00557,Producto L'Oréal 837,Revlon,Fragancias,Aceite de argán,77.91,Francia,2020,Marketplace
+PCOSM00558,Producto Clinique 407,Maybelline,Protección solar,Aceite de argán,34.16,Alemania,2008,Distribuidor
+PCOSM00559,Producto Maybelline 934,MAC,Cuidado de la piel,Niacinamida,8.03,Japón,2012,Retail
+PCOSM00560,Producto L'Oréal 771,Lancôme,Cuidado de la piel,Niacinamida,90.89,Canadá,2023,Marketplace
+PCOSM00561,Producto MAC 234,Estée Lauder,Maquillaje,Vitamina C,20,Canadá,2020,Distribuidor
+PCOSM00562,Producto MAC 713,Clinique,Cuidado de la piel,Niacinamida,98.64,Canadá,2018,Catálogo
+PCOSM00563,Producto Revlon 179,MAC,Protección solar,Colágeno,13.6,Francia,2018,E-commerce
+PCOSM00564,Producto L'Oréal 851,Dior,Maquillaje,Aceite de argán,115.94,Colombia,2017,Distribuidor
+PCOSM00565,Producto Lancôme 717,Clinique,Fragancias,Colágeno,98.05,Estados Unidos,2010,Distribuidor
+PCOSM00566,Producto Lancôme 241,Revlon,Protección solar,Extracto de té verde,12.57,Alemania,2014,Catálogo
+PCOSM00567,Producto MAC 480,Estée Lauder,Cuidado capilar,Niacinamida,47.14,Brasil,2013,Catálogo
+PCOSM00568,Producto Clinique 605,Lancôme,Cuidado capilar,Ácido hialurónico,74.1,Corea del Sur,2021,Distribuidor
+PCOSM00569,Producto MAC 244,NARS,Fragancias,Vitamina C,17.5,Francia,2016,Marketplace
+PCOSM00570,Producto Neutrogena 703,Clinique,Fragancias,Niacinamida,62.31,Francia,2021,Catálogo
+PCOSM00571,Producto Neutrogena 467,MAC,Maquillaje,Niacinamida,102.37,Corea del Sur,2017,Retail
+PCOSM00572,Producto Dior 945,Maybelline,Cuidado capilar,Ácido hialurónico,61.39,Corea del Sur,2023,Catálogo
+PCOSM00573,Producto MAC 459,Clinique,Cuidado de la piel,Extracto de té verde,54.73,Francia,2016,Catálogo
+PCOSM00574,Producto Dior 384,NARS,Fragancias,Vitamina C,114.14,Japón,2008,E-commerce
+PCOSM00575,Producto Maybelline 753,Clinique,Protección solar,Retinol,51.87,Brasil,2013,E-commerce
+PCOSM00576,Producto Lancôme 915,NARS,Cuidado capilar,Aloe vera,104.01,Corea del Sur,2024,Catálogo
+PCOSM00577,Producto L'Oréal 485,Clinique,Fragancias,Ácido hialurónico,67.9,Colombia,2016,E-commerce
+PCOSM00578,Producto Lancôme 570,Revlon,Protección solar,Extracto de té verde,112.57,Japón,2012,Catálogo
+PCOSM00579,Producto Clinique 939,Clinique,Cuidado capilar,Retinol,10.35,Alemania,2006,Marketplace
+PCOSM00580,Producto L'Oréal 804,Maybelline,Cuidado de la piel,Vitamina C,10.04,Colombia,2013,Retail
+PCOSM00581,Producto L'Oréal 149,Dior,Protección solar,Colágeno,95.22,Japón,2021,Retail
+PCOSM00582,Producto Estée Lauder 573,Neutrogena,Fragancias,Aloe vera,106.39,Colombia,2010,Marketplace
+PCOSM00583,Producto Revlon 455,Revlon,Cuidado de la piel,Ácido hialurónico,72.26,Japón,2011,Distribuidor
+PCOSM00584,Producto NARS 293,Dior,Protección solar,Ácido hialurónico,23.06,Canadá,2015,Marketplace
+PCOSM00585,Producto L'Oréal 43,Clinique,Protección solar,Extracto de té verde,25.51,Brasil,2006,Distribuidor
+PCOSM00586,Producto NARS 341,Neutrogena,Cuidado capilar,Ácido hialurónico,80.59,Alemania,2017,Marketplace
+PCOSM00587,Producto Lancôme 380,L'Oréal,Maquillaje,Vitamina C,94.08,Colombia,2015,Catálogo
+PCOSM00588,Producto Neutrogena 855,Clinique,Fragancias,Niacinamida,72.29,Canadá,2017,Distribuidor
+PCOSM00589,Producto Neutrogena 152,Maybelline,Maquillaje,Aceite de argán,116.86,Canadá,2010,E-commerce
+PCOSM00590,Producto Estée Lauder 28,Estée Lauder,Protección solar,Colágeno,17.5,Francia,2013,Retail
+PCOSM00591,Producto Maybelline 640,Revlon,Fragancias,Aceite de argán,43.78,Francia,2009,E-commerce
+PCOSM00592,Producto Neutrogena 547,Estée Lauder,Protección solar,Aceite de argán,102.66,Japón,2016,Retail
+PCOSM00593,Producto Neutrogena 718,Revlon,Maquillaje,Retinol,86.31,Estados Unidos,2007,E-commerce
+PCOSM00594,Producto Revlon 385,Dior,Fragancias,Niacinamida,38.99,Alemania,2020,Distribuidor
+PCOSM00595,Producto Maybelline 671,Maybelline,Cuidado de la piel,Vitamina C,72.08,Canadá,2016,Distribuidor
+PCOSM00596,Producto Estée Lauder 99,NARS,Fragancias,Aloe vera,18.7,Brasil,2008,Catálogo
+PCOSM00597,Producto L'Oréal 54,Maybelline,Cuidado de la piel,Aloe vera,83.31,Brasil,2010,Retail
+PCOSM00598,Producto Revlon 725,Maybelline,Cuidado capilar,Niacinamida,41.46,Japón,2013,Catálogo
+PCOSM00599,Producto Neutrogena 560,Dior,Maquillaje,Colágeno,31.98,Estados Unidos,2014,E-commerce
+PCOSM00600,Producto Maybelline 773,Estée Lauder,Maquillaje,Niacinamida,70.97,Corea del Sur,2024,Retail
+PCOSM00601,Producto MAC 101,NARS,Maquillaje,Colágeno,70.91,Colombia,2020,Distribuidor
+PCOSM00602,Producto L'Oréal 650,L'Oréal,Cuidado de la piel,Vitamina C,10.93,Alemania,2020,Catálogo
+PCOSM00603,Producto L'Oréal 151,Lancôme,Protección solar,Extracto de té verde,111.52,Colombia,2021,E-commerce
+PCOSM00604,Producto Lancôme 221,MAC,Maquillaje,Retinol,27.38,Estados Unidos,2007,Distribuidor
+PCOSM00605,Producto Clinique 545,NARS,Cuidado capilar,Extracto de té verde,119.78,Canadá,2017,E-commerce
+PCOSM00606,Producto Neutrogena 917,Estée Lauder,Cuidado capilar,Colágeno,54.2,Corea del Sur,2009,Marketplace
+PCOSM00607,Producto NARS 239,Revlon,Maquillaje,Aceite de argán,53.1,Brasil,2015,E-commerce
+PCOSM00608,Producto Dior 782,Maybelline,Cuidado capilar,Extracto de té verde,9.41,Canadá,2021,Marketplace
+PCOSM00609,Producto NARS 715,Neutrogena,Fragancias,Retinol,82.64,Canadá,2018,E-commerce
+PCOSM00610,Producto Maybelline 214,MAC,Protección solar,Extracto de té verde,79.1,Brasil,2018,Distribuidor
+PCOSM00611,Producto Dior 996,Estée Lauder,Maquillaje,Colágeno,94.06,Corea del Sur,2013,Marketplace
+PCOSM00612,Producto Lancôme 103,Maybelline,Maquillaje,Aloe vera,97.57,Japón,2016,Marketplace
+PCOSM00613,Producto Neutrogena 504,Revlon,Fragancias,Aceite de argán,85.64,Francia,2024,Distribuidor
+PCOSM00614,Producto Revlon 30,NARS,Maquillaje,Aceite de argán,14.46,Alemania,2017,Catálogo
+PCOSM00615,Producto Dior 33,MAC,Cuidado de la piel,Retinol,32.62,Canadá,2011,Marketplace
+PCOSM00616,Producto Dior 746,Revlon,Fragancias,Ácido hialurónico,30.69,Estados Unidos,2008,E-commerce
+PCOSM00617,Producto Clinique 253,MAC,Protección solar,Vitamina C,20.67,Brasil,2007,Distribuidor
+PCOSM00618,Producto Maybelline 130,Revlon,Protección solar,Retinol,51.17,Estados Unidos,2009,Distribuidor
+PCOSM00619,Producto Dior 121,Estée Lauder,Cuidado capilar,Retinol,75.09,Estados Unidos,2023,Marketplace
+PCOSM00620,Producto Maybelline 966,Clinique,Cuidado capilar,Aloe vera,38.25,Alemania,2019,E-commerce
+PCOSM00621,Producto Neutrogena 341,Maybelline,Cuidado de la piel,Niacinamida,119.67,Brasil,2015,Catálogo
+PCOSM00622,Producto L'Oréal 993,Dior,Maquillaje,Aloe vera,22.78,Corea del Sur,2006,E-commerce
+PCOSM00623,Producto Maybelline 342,Estée Lauder,Protección solar,Ácido hialurónico,86.21,Estados Unidos,2016,Marketplace
+PCOSM00624,Producto MAC 497,MAC,Maquillaje,Aceite de argán,37.42,Francia,2017,Catálogo
+PCOSM00625,Producto Lancôme 930,Dior,Maquillaje,Aloe vera,26.89,Alemania,2016,E-commerce
+PCOSM00626,Producto Maybelline 298,L'Oréal,Maquillaje,Extracto de té verde,37.78,Francia,2019,Distribuidor
+PCOSM00627,Producto NARS 523,Dior,Cuidado capilar,Ácido hialurónico,23.57,Francia,2015,Marketplace
+PCOSM00628,Producto Clinique 760,MAC,Fragancias,Niacinamida,69.98,Corea del Sur,2015,Catálogo
+PCOSM00629,Producto Dior 217,MAC,Protección solar,Aceite de argán,29.25,Corea del Sur,2010,E-commerce
+PCOSM00630,Producto Revlon 830,Maybelline,Fragancias,Extracto de té verde,111.13,Corea del Sur,2010,Marketplace
+PCOSM00631,Producto NARS 197,NARS,Fragancias,Aloe vera,98.17,Brasil,2006,E-commerce
+PCOSM00632,Producto Revlon 327,Lancôme,Protección solar,Ácido hialurónico,80.17,Brasil,2022,Distribuidor
+PCOSM00633,Producto Clinique 856,Maybelline,Protección solar,Retinol,54.82,Corea del Sur,2023,Distribuidor
+PCOSM00634,Producto Estée Lauder 775,Neutrogena,Cuidado de la piel,Ácido hialurónico,47.15,Corea del Sur,2022,Distribuidor
+PCOSM00635,Producto Estée Lauder 184,Neutrogena,Protección solar,Retinol,118.62,Canadá,2014,Retail
+PCOSM00636,Producto Clinique 983,MAC,Cuidado de la piel,Colágeno,78.67,Estados Unidos,2007,Distribuidor
+PCOSM00637,Producto L'Oréal 66,Dior,Fragancias,Vitamina C,48.46,Colombia,2012,Marketplace
+PCOSM00638,Producto Estée Lauder 59,Dior,Cuidado de la piel,Retinol,12.55,Brasil,2016,Distribuidor
+PCOSM00639,Producto MAC 143,Estée Lauder,Protección solar,Retinol,65.81,Colombia,2021,Retail
+PCOSM00640,Producto Lancôme 291,Maybelline,Maquillaje,Extracto de té verde,16.35,Francia,2008,Retail
+PCOSM00641,Producto Estée Lauder 922,NARS,Cuidado capilar,Extracto de té verde,8.57,Francia,2018,Marketplace
+PCOSM00642,Producto Lancôme 636,Estée Lauder,Fragancias,Aloe vera,75.22,Canadá,2007,E-commerce
+PCOSM00643,Producto L'Oréal 663,Clinique,Fragancias,Vitamina C,117.75,Brasil,2009,E-commerce
+PCOSM00644,Producto L'Oréal 469,L'Oréal,Fragancias,Aloe vera,29.13,Corea del Sur,2019,Catálogo
+PCOSM00645,Producto MAC 494,Clinique,Fragancias,Niacinamida,25.7,Alemania,2015,E-commerce
+PCOSM00646,Producto NARS 236,Clinique,Maquillaje,Niacinamida,85.26,Corea del Sur,2023,E-commerce
+PCOSM00647,Producto Neutrogena 583,NARS,Cuidado capilar,Aloe vera,78.09,Francia,2007,Distribuidor
+PCOSM00648,Producto MAC 957,Clinique,Maquillaje,Extracto de té verde,71.15,Colombia,2016,Distribuidor
+PCOSM00649,Producto Dior 627,NARS,Cuidado de la piel,Extracto de té verde,20.42,Francia,2013,Marketplace
+PCOSM00650,Producto MAC 384,Lancôme,Cuidado de la piel,Aloe vera,59.81,Alemania,2022,Marketplace
+PCOSM00651,Producto L'Oréal 209,NARS,Maquillaje,Vitamina C,7.21,Canadá,2005,E-commerce
+PCOSM00652,Producto Dior 65,Estée Lauder,Cuidado de la piel,Extracto de té verde,116.63,Japón,2018,Marketplace
+PCOSM00653,Producto NARS 975,Neutrogena,Fragancias,Colágeno,30.52,Alemania,2012,E-commerce
+PCOSM00654,Producto L'Oréal 331,Dior,Protección solar,Aceite de argán,74.06,Francia,2007,Marketplace
+PCOSM00655,Producto NARS 41,MAC,Protección solar,Extracto de té verde,32.51,Alemania,2017,Marketplace
+PCOSM00656,Producto MAC 647,Clinique,Protección solar,Aloe vera,12.67,Japón,2023,Marketplace
+PCOSM00657,Producto Lancôme 328,Dior,Cuidado de la piel,Retinol,105.11,Francia,2019,Distribuidor
+PCOSM00658,Producto Dior 417,NARS,Maquillaje,Niacinamida,118.5,Francia,2013,Distribuidor
+PCOSM00659,Producto MAC 767,NARS,Maquillaje,Retinol,68.46,Japón,2008,Distribuidor
+PCOSM00660,Producto Neutrogena 480,NARS,Fragancias,Extracto de té verde,66.95,Japón,2012,Retail
+PCOSM00661,Producto L'Oréal 481,Dior,Cuidado capilar,Aloe vera,111.6,Canadá,2011,Marketplace
+PCOSM00662,Producto Neutrogena 553,Lancôme,Cuidado de la piel,Extracto de té verde,86.02,Francia,2011,Distribuidor
+PCOSM00663,Producto Dior 281,NARS,Fragancias,Niacinamida,40.78,Colombia,2022,E-commerce
+PCOSM00664,Producto Lancôme 889,L'Oréal,Fragancias,Niacinamida,45.87,Corea del Sur,2007,Marketplace
+PCOSM00665,Producto Lancôme 679,Lancôme,Cuidado de la piel,Extracto de té verde,9.04,Corea del Sur,2024,Marketplace
+PCOSM00666,Producto NARS 736,Neutrogena,Cuidado capilar,Ácido hialurónico,21.99,Japón,2024,E-commerce
+PCOSM00667,Producto Dior 513,Revlon,Maquillaje,Ácido hialurónico,112.18,Estados Unidos,2016,Distribuidor
+PCOSM00668,Producto Maybelline 660,Dior,Maquillaje,Niacinamida,24.03,Alemania,2010,E-commerce
+PCOSM00669,Producto Dior 509,Neutrogena,Fragancias,Ácido hialurónico,54.26,Alemania,2016,Marketplace
+PCOSM00670,Producto Dior 395,Maybelline,Protección solar,Aloe vera,101.85,Colombia,2021,E-commerce
+PCOSM00671,Producto L'Oréal 182,Lancôme,Fragancias,Niacinamida,17.48,Canadá,2012,Marketplace
+PCOSM00672,Producto L'Oréal 542,Clinique,Cuidado de la piel,Retinol,76.64,Brasil,2006,Marketplace
+PCOSM00673,Producto Dior 415,Dior,Fragancias,Colágeno,7.27,Brasil,2005,E-commerce
+PCOSM00674,Producto Revlon 525,NARS,Cuidado de la piel,Aceite de argán,81.12,Brasil,2008,Distribuidor
+PCOSM00675,Producto Dior 410,NARS,Maquillaje,Retinol,83.93,Francia,2021,E-commerce
+PCOSM00676,Producto NARS 945,NARS,Maquillaje,Retinol,53.97,Francia,2021,Marketplace
+PCOSM00677,Producto Neutrogena 914,NARS,Cuidado capilar,Ácido hialurónico,99.14,Brasil,2016,Distribuidor
+PCOSM00678,Producto Neutrogena 414,Revlon,Protección solar,Colágeno,54.18,Brasil,2016,Distribuidor
+PCOSM00679,Producto NARS 64,Neutrogena,Cuidado capilar,Ácido hialurónico,41.64,Colombia,2018,Distribuidor
+PCOSM00680,Producto Clinique 280,Estée Lauder,Maquillaje,Colágeno,94.74,Estados Unidos,2013,Catálogo
+PCOSM00681,Producto Dior 740,Lancôme,Maquillaje,Vitamina C,51.86,Estados Unidos,2006,Marketplace
+PCOSM00682,Producto Estée Lauder 917,NARS,Fragancias,Niacinamida,109.56,Alemania,2007,Marketplace
+PCOSM00683,Producto Clinique 931,Dior,Maquillaje,Colágeno,24.86,Brasil,2020,Catálogo
+PCOSM00684,Producto MAC 152,Clinique,Cuidado de la piel,Colágeno,23.3,Corea del Sur,2017,Marketplace
+PCOSM00685,Producto Clinique 348,Dior,Cuidado de la piel,Vitamina C,52.81,Francia,2023,Marketplace
+PCOSM00686,Producto Dior 92,Dior,Maquillaje,Colágeno,96.93,Brasil,2010,Catálogo
+PCOSM00687,Producto Clinique 100,Dior,Fragancias,Aceite de argán,23.9,Estados Unidos,2012,Retail
+PCOSM00688,Producto Maybelline 988,Neutrogena,Cuidado capilar,Retinol,16.32,Colombia,2014,E-commerce
+PCOSM00689,Producto L'Oréal 909,NARS,Cuidado de la piel,Extracto de té verde,60.59,Colombia,2014,E-commerce
+PCOSM00690,Producto Revlon 332,NARS,Cuidado de la piel,Extracto de té verde,37.5,Brasil,2023,Retail
+PCOSM00691,Producto Estée Lauder 718,Neutrogena,Maquillaje,Ácido hialurónico,115.91,Francia,2022,Retail
+PCOSM00692,Producto MAC 938,MAC,Fragancias,Extracto de té verde,56.91,Estados Unidos,2018,Retail
+PCOSM00693,Producto L'Oréal 349,Neutrogena,Cuidado capilar,Colágeno,58.21,Estados Unidos,2024,Retail
+PCOSM00694,Producto Revlon 850,Estée Lauder,Protección solar,Niacinamida,62.46,Canadá,2022,Distribuidor
+PCOSM00695,Producto L'Oréal 79,Neutrogena,Protección solar,Extracto de té verde,86.29,Francia,2008,Catálogo
+PCOSM00696,Producto NARS 545,Neutrogena,Cuidado de la piel,Aloe vera,12.75,Canadá,2023,Distribuidor
+PCOSM00697,Producto Neutrogena 80,Clinique,Protección solar,Ácido hialurónico,40.32,Colombia,2020,E-commerce
+PCOSM00698,Producto Dior 774,Clinique,Fragancias,Retinol,99.74,Canadá,2020,Catálogo
+PCOSM00699,Producto Dior 899,Clinique,Fragancias,Vitamina C,32.1,Japón,2022,Catálogo
+PCOSM00700,Producto Dior 617,MAC,Cuidado de la piel,Vitamina C,23.66,Francia,2011,Catálogo
+PCOSM00701,Producto NARS 661,Revlon,Protección solar,Colágeno,114.74,Canadá,2024,Marketplace
+PCOSM00702,Producto Estée Lauder 254,MAC,Fragancias,Colágeno,104.17,Brasil,2024,Retail
+PCOSM00703,Producto Neutrogena 661,Revlon,Protección solar,Vitamina C,57.66,Estados Unidos,2021,E-commerce
+PCOSM00704,Producto Neutrogena 111,Revlon,Cuidado capilar,Niacinamida,102.28,Japón,2023,Catálogo
+PCOSM00705,Producto Dior 6,Maybelline,Cuidado capilar,Extracto de té verde,90.65,Francia,2015,Marketplace
+PCOSM00706,Producto Dior 675,Estée Lauder,Protección solar,Aceite de argán,67.12,Brasil,2022,Catálogo
+PCOSM00707,Producto Neutrogena 569,Maybelline,Maquillaje,Colágeno,84.06,Francia,2023,Distribuidor
+PCOSM00708,Producto MAC 681,Neutrogena,Cuidado de la piel,Extracto de té verde,30.16,Alemania,2022,Catálogo
+PCOSM00709,Producto Neutrogena 247,NARS,Maquillaje,Colágeno,119.26,Brasil,2006,Catálogo
+PCOSM00710,Producto NARS 260,Lancôme,Cuidado capilar,Ácido hialurónico,5.24,Japón,2024,Distribuidor
+PCOSM00711,Producto L'Oréal 379,L'Oréal,Cuidado capilar,Ácido hialurónico,114.06,Estados Unidos,2017,Catálogo
+PCOSM00712,Producto Estée Lauder 893,Dior,Fragancias,Vitamina C,113.25,Colombia,2009,E-commerce
+PCOSM00713,Producto Revlon 340,Dior,Cuidado de la piel,Retinol,104.76,Francia,2009,Catálogo
+PCOSM00714,Producto Revlon 591,Revlon,Cuidado capilar,Extracto de té verde,75.14,Brasil,2017,Retail
+PCOSM00715,Producto Clinique 431,Lancôme,Protección solar,Retinol,27.81,Japón,2024,Catálogo
+PCOSM00716,Producto Clinique 413,Dior,Maquillaje,Niacinamida,25.99,Alemania,2017,Catálogo
+PCOSM00717,Producto NARS 70,Neutrogena,Cuidado capilar,Retinol,30.82,Francia,2017,Distribuidor
+PCOSM00718,Producto Lancôme 944,MAC,Cuidado de la piel,Extracto de té verde,9.11,Colombia,2021,Distribuidor
+PCOSM00719,Producto Dior 98,MAC,Cuidado de la piel,Colágeno,69.2,Canadá,2017,Distribuidor
+PCOSM00720,Producto Estée Lauder 162,NARS,Cuidado capilar,Vitamina C,101.34,Brasil,2010,E-commerce
+PCOSM00721,Producto Dior 980,Neutrogena,Cuidado capilar,Niacinamida,28.06,Francia,2022,Marketplace
+PCOSM00722,Producto Maybelline 177,L'Oréal,Cuidado capilar,Retinol,40.63,Estados Unidos,2016,Distribuidor
+PCOSM00723,Producto Clinique 567,Clinique,Cuidado capilar,Extracto de té verde,106.26,Colombia,2017,Retail
+PCOSM00724,Producto NARS 779,Estée Lauder,Cuidado de la piel,Retinol,61.4,Colombia,2023,Retail
+PCOSM00725,Producto Lancôme 426,Estée Lauder,Protección solar,Niacinamida,88.46,Brasil,2016,Retail
+PCOSM00726,Producto Dior 998,Lancôme,Fragancias,Aceite de argán,55.71,Brasil,2016,Marketplace
+PCOSM00727,Producto MAC 167,Dior,Protección solar,Extracto de té verde,53.34,Francia,2005,Retail
+PCOSM00728,Producto L'Oréal 263,Revlon,Cuidado capilar,Vitamina C,67.73,Estados Unidos,2014,Retail
+PCOSM00729,Producto Dior 478,L'Oréal,Protección solar,Aloe vera,100.73,Alemania,2014,E-commerce
+PCOSM00730,Producto Revlon 736,Dior,Protección solar,Colágeno,65,Colombia,2012,E-commerce
+PCOSM00731,Producto Clinique 695,Neutrogena,Cuidado capilar,Aloe vera,97.33,Estados Unidos,2017,Catálogo
+PCOSM00732,Producto Estée Lauder 426,Estée Lauder,Fragancias,Niacinamida,12.64,Francia,2011,Retail
+PCOSM00733,Producto Neutrogena 771,Clinique,Cuidado capilar,Colágeno,88.28,Estados Unidos,2007,Catálogo
+PCOSM00734,Producto MAC 584,Clinique,Maquillaje,Niacinamida,118.75,Colombia,2021,Marketplace
+PCOSM00735,Producto Estée Lauder 67,L'Oréal,Protección solar,Vitamina C,80.18,Colombia,2013,Marketplace
+PCOSM00736,Producto Neutrogena 269,Clinique,Protección solar,Ácido hialurónico,63.57,Canadá,2014,Marketplace
+PCOSM00737,Producto MAC 753,Clinique,Fragancias,Retinol,108.59,Canadá,2022,E-commerce
+PCOSM00738,Producto L'Oréal 340,Maybelline,Maquillaje,Ácido hialurónico,86.76,Brasil,2022,Distribuidor
+PCOSM00739,Producto Dior 71,L'Oréal,Maquillaje,Retinol,49.04,Colombia,2021,Catálogo
+PCOSM00740,Producto Dior 874,Revlon,Maquillaje,Retinol,55.54,Corea del Sur,2007,Distribuidor
+PCOSM00741,Producto Neutrogena 303,Maybelline,Protección solar,Vitamina C,71.21,Canadá,2016,Marketplace
+PCOSM00742,Producto Clinique 478,Neutrogena,Cuidado de la piel,Niacinamida,32.83,Alemania,2013,Catálogo
+PCOSM00743,Producto Maybelline 729,Maybelline,Protección solar,Aloe vera,56.36,Corea del Sur,2018,Marketplace
+PCOSM00744,Producto NARS 195,Neutrogena,Maquillaje,Aloe vera,58.8,Corea del Sur,2010,Marketplace
+PCOSM00745,Producto Maybelline 851,Neutrogena,Cuidado de la piel,Aloe vera,109.53,Colombia,2021,Distribuidor
+PCOSM00746,Producto Dior 933,Revlon,Fragancias,Retinol,21.58,Corea del Sur,2022,E-commerce
+PCOSM00747,Producto Estée Lauder 153,Estée Lauder,Cuidado capilar,Retinol,90.84,Alemania,2006,Retail
+PCOSM00748,Producto NARS 770,Estée Lauder,Cuidado capilar,Aloe vera,110.18,Corea del Sur,2023,Retail
+PCOSM00749,Producto Revlon 616,Maybelline,Maquillaje,Colágeno,100.64,Corea del Sur,2024,Retail
+PCOSM00750,Producto Revlon 358,Estée Lauder,Cuidado de la piel,Aloe vera,7.55,Corea del Sur,2008,E-commerce
+PCOSM00751,Producto Estée Lauder 967,MAC,Maquillaje,Colágeno,39.21,Canadá,2020,Retail
+PCOSM00752,Producto NARS 72,L'Oréal,Cuidado capilar,Retinol,102.85,Corea del Sur,2014,Marketplace
+PCOSM00753,Producto Maybelline 504,Lancôme,Fragancias,Colágeno,119.49,Canadá,2021,Distribuidor
+PCOSM00754,Producto Maybelline 659,MAC,Cuidado de la piel,Aloe vera,12.17,Colombia,2011,Marketplace
+PCOSM00755,Producto Lancôme 475,NARS,Cuidado de la piel,Aloe vera,11.02,Francia,2010,Catálogo
+PCOSM00756,Producto L'Oréal 870,Maybelline,Maquillaje,Vitamina C,13.88,Brasil,2023,E-commerce
+PCOSM00757,Producto Dior 931,Neutrogena,Fragancias,Vitamina C,105.68,Estados Unidos,2020,Catálogo
+PCOSM00758,Producto Maybelline 886,Revlon,Cuidado de la piel,Colágeno,90.27,Corea del Sur,2021,Catálogo
+PCOSM00759,Producto Lancôme 130,MAC,Protección solar,Niacinamida,45.2,Colombia,2024,Distribuidor
+PCOSM00760,Producto NARS 596,Clinique,Fragancias,Aloe vera,65.93,Estados Unidos,2017,Catálogo
+PCOSM00761,Producto Estée Lauder 803,Clinique,Maquillaje,Aloe vera,104.45,Japón,2024,Distribuidor
+PCOSM00762,Producto Lancôme 973,Dior,Fragancias,Retinol,35.46,Brasil,2009,Catálogo
+PCOSM00763,Producto Dior 999,MAC,Protección solar,Extracto de té verde,74.08,Francia,2013,Retail
+PCOSM00764,Producto Lancôme 49,Clinique,Protección solar,Niacinamida,92.47,Alemania,2011,Marketplace
+PCOSM00765,Producto Lancôme 32,Lancôme,Cuidado capilar,Colágeno,46.71,Corea del Sur,2010,Distribuidor
+PCOSM00766,Producto NARS 744,L'Oréal,Protección solar,Ácido hialurónico,33.47,Alemania,2008,Marketplace
+PCOSM00767,Producto Neutrogena 789,L'Oréal,Cuidado de la piel,Niacinamida,41.25,Corea del Sur,2009,Retail
+PCOSM00768,Producto MAC 125,L'Oréal,Cuidado capilar,Niacinamida,30.47,Brasil,2012,Distribuidor
+PCOSM00769,Producto NARS 697,Estée Lauder,Maquillaje,Ácido hialurónico,19.68,Francia,2019,Distribuidor
+PCOSM00770,Producto Neutrogena 413,Revlon,Protección solar,Colágeno,9.83,Canadá,2022,Retail
+PCOSM00771,Producto NARS 728,Lancôme,Cuidado de la piel,Niacinamida,70.8,Francia,2008,Retail
+PCOSM00772,Producto Clinique 822,Maybelline,Cuidado de la piel,Retinol,39.7,Canadá,2013,Marketplace
+PCOSM00773,Producto NARS 507,MAC,Cuidado de la piel,Ácido hialurónico,65.9,Corea del Sur,2009,E-commerce
+PCOSM00774,Producto NARS 465,Estée Lauder,Protección solar,Ácido hialurónico,72.18,Francia,2014,Catálogo
+PCOSM00775,Producto Lancôme 596,Neutrogena,Cuidado capilar,Colágeno,58.89,Japón,2012,Distribuidor
+PCOSM00776,Producto NARS 19,Clinique,Maquillaje,Aloe vera,104.73,Francia,2005,Catálogo
+PCOSM00777,Producto L'Oréal 972,Revlon,Fragancias,Vitamina C,88.15,Brasil,2007,Catálogo
+PCOSM00778,Producto Dior 771,L'Oréal,Protección solar,Vitamina C,20.16,Estados Unidos,2020,Retail
+PCOSM00779,Producto Neutrogena 635,Maybelline,Cuidado de la piel,Aloe vera,86.47,Francia,2023,Catálogo
+PCOSM00780,Producto Lancôme 701,MAC,Protección solar,Aloe vera,13.34,Alemania,2010,Retail
+PCOSM00781,Producto Clinique 33,L'Oréal,Cuidado capilar,Extracto de té verde,80.36,Estados Unidos,2007,E-commerce
+PCOSM00782,Producto Revlon 543,MAC,Protección solar,Niacinamida,53.19,Brasil,2020,Distribuidor
+PCOSM00783,Producto Estée Lauder 559,L'Oréal,Maquillaje,Aceite de argán,67.43,Francia,2019,Distribuidor
+PCOSM00784,Producto Clinique 680,Revlon,Fragancias,Ácido hialurónico,11.18,Japón,2005,Distribuidor
+PCOSM00785,Producto L'Oréal 375,Revlon,Fragancias,Vitamina C,45.06,Colombia,2019,Marketplace
+PCOSM00786,Producto L'Oréal 110,NARS,Cuidado capilar,Aceite de argán,11.35,Corea del Sur,2012,Retail
+PCOSM00787,Producto L'Oréal 540,Maybelline,Fragancias,Vitamina C,22.74,Alemania,2016,Marketplace
+PCOSM00788,Producto Maybelline 3,NARS,Protección solar,Niacinamida,108.43,Colombia,2017,Marketplace
+PCOSM00789,Producto Estée Lauder 800,MAC,Protección solar,Colágeno,116.7,Francia,2018,Retail
+PCOSM00790,Producto Neutrogena 460,NARS,Protección solar,Colágeno,79.57,Estados Unidos,2005,Distribuidor
+PCOSM00791,Producto MAC 511,Clinique,Fragancias,Ácido hialurónico,71.35,Corea del Sur,2019,Retail
+PCOSM00792,Producto Maybelline 986,Dior,Cuidado capilar,Retinol,44.88,Canadá,2012,Distribuidor
+PCOSM00793,Producto Maybelline 403,Neutrogena,Cuidado capilar,Retinol,71.58,Alemania,2017,Distribuidor
+PCOSM00794,Producto L'Oréal 591,Revlon,Cuidado capilar,Aloe vera,38.29,Estados Unidos,2017,Distribuidor
+PCOSM00795,Producto Estée Lauder 647,MAC,Cuidado de la piel,Ácido hialurónico,68.34,Colombia,2006,Distribuidor
+PCOSM00796,Producto Estée Lauder 937,NARS,Protección solar,Retinol,87.83,Canadá,2015,Retail
+PCOSM00797,Producto Estée Lauder 789,Estée Lauder,Fragancias,Vitamina C,104.11,Canadá,2020,Retail
+PCOSM00798,Producto Dior 203,NARS,Cuidado de la piel,Retinol,35.53,Corea del Sur,2019,Retail
+PCOSM00799,Producto Dior 116,L'Oréal,Protección solar,Vitamina C,110.39,Colombia,2008,Marketplace
+PCOSM00800,Producto Dior 669,Neutrogena,Maquillaje,Niacinamida,64.09,Brasil,2013,Retail
+PCOSM00801,Producto MAC 79,Neutrogena,Maquillaje,Niacinamida,73.26,Japón,2020,Retail
+PCOSM00802,Producto Clinique 875,Estée Lauder,Protección solar,Extracto de té verde,52.03,Brasil,2014,Marketplace
+PCOSM00803,Producto Maybelline 975,NARS,Fragancias,Niacinamida,77.27,Japón,2015,E-commerce
+PCOSM00804,Producto NARS 515,Maybelline,Cuidado capilar,Vitamina C,85.54,Estados Unidos,2011,Catálogo
+PCOSM00805,Producto L'Oréal 278,MAC,Cuidado de la piel,Extracto de té verde,75.37,Canadá,2016,E-commerce
+PCOSM00806,Producto Neutrogena 884,Estée Lauder,Protección solar,Aloe vera,39.72,Colombia,2005,Retail
+PCOSM00807,Producto NARS 515,Clinique,Fragancias,Ácido hialurónico,67.16,Colombia,2016,Retail
+PCOSM00808,Producto MAC 983,Revlon,Protección solar,Vitamina C,50.6,Canadá,2008,Distribuidor
+PCOSM00809,Producto MAC 559,Clinique,Fragancias,Extracto de té verde,29.27,Japón,2012,Retail
+PCOSM00810,Producto NARS 656,Neutrogena,Protección solar,Colágeno,105.47,Japón,2022,Retail
+PCOSM00811,Producto Dior 290,MAC,Cuidado capilar,Vitamina C,25.92,Canadá,2011,Catálogo
+PCOSM00812,Producto Revlon 767,L'Oréal,Fragancias,Aloe vera,43.81,Corea del Sur,2015,Distribuidor
+PCOSM00813,Producto Dior 522,MAC,Maquillaje,Ácido hialurónico,28.03,Canadá,2010,E-commerce
+PCOSM00814,Producto Revlon 882,Neutrogena,Cuidado capilar,Colágeno,47.39,Colombia,2012,Retail
+PCOSM00815,Producto Lancôme 83,Lancôme,Fragancias,Aceite de argán,107.75,Corea del Sur,2017,Catálogo
+PCOSM00816,Producto Maybelline 858,Dior,Cuidado capilar,Extracto de té verde,32.45,Brasil,2022,Catálogo
+PCOSM00817,Producto MAC 230,Dior,Cuidado capilar,Extracto de té verde,76.14,Corea del Sur,2008,E-commerce
+PCOSM00818,Producto Estée Lauder 556,Estée Lauder,Protección solar,Vitamina C,108.99,Francia,2005,Retail
+PCOSM00819,Producto Maybelline 697,NARS,Fragancias,Extracto de té verde,81.02,Canadá,2020,Distribuidor
+PCOSM00820,Producto Maybelline 763,Maybelline,Protección solar,Aloe vera,80.61,Alemania,2007,E-commerce
+PCOSM00821,Producto Lancôme 257,Revlon,Protección solar,Niacinamida,34.49,Japón,2019,Distribuidor
+PCOSM00822,Producto Clinique 971,NARS,Protección solar,Niacinamida,11.41,Francia,2007,E-commerce
+PCOSM00823,Producto Revlon 356,Estée Lauder,Fragancias,Niacinamida,24.32,Canadá,2007,Distribuidor
+PCOSM00824,Producto L'Oréal 783,L'Oréal,Protección solar,Aceite de argán,20.37,Corea del Sur,2011,Retail
+PCOSM00825,Producto Estée Lauder 825,Revlon,Cuidado capilar,Ácido hialurónico,20.62,Francia,2009,Catálogo
+PCOSM00826,Producto Clinique 258,Estée Lauder,Fragancias,Extracto de té verde,105.45,Brasil,2006,Retail
+PCOSM00827,Producto Revlon 369,Clinique,Fragancias,Aceite de argán,51.81,Alemania,2016,Catálogo
+PCOSM00828,Producto L'Oréal 484,Neutrogena,Cuidado capilar,Aloe vera,25.76,Estados Unidos,2008,E-commerce
+PCOSM00829,Producto Revlon 98,Lancôme,Cuidado de la piel,Extracto de té verde,5.85,Estados Unidos,2014,Marketplace
+PCOSM00830,Producto Maybelline 235,Estée Lauder,Cuidado de la piel,Extracto de té verde,84.42,Japón,2009,Distribuidor
+PCOSM00831,Producto Clinique 544,Dior,Maquillaje,Colágeno,85.16,Estados Unidos,2023,Distribuidor
+PCOSM00832,Producto NARS 118,MAC,Maquillaje,Vitamina C,111.16,Alemania,2013,Catálogo
+PCOSM00833,Producto L'Oréal 887,NARS,Cuidado capilar,Aloe vera,37.49,Brasil,2007,Retail
+PCOSM00834,Producto Lancôme 872,MAC,Protección solar,Colágeno,115.49,Japón,2014,Distribuidor
+PCOSM00835,Producto Dior 14,Dior,Cuidado de la piel,Retinol,35.59,Japón,2010,Distribuidor
+PCOSM00836,Producto Maybelline 817,Lancôme,Cuidado de la piel,Aceite de argán,42.57,Alemania,2022,E-commerce
+PCOSM00837,Producto NARS 286,MAC,Protección solar,Aloe vera,66.38,Japón,2023,E-commerce
+PCOSM00838,Producto Clinique 578,Neutrogena,Protección solar,Colágeno,34.6,Corea del Sur,2020,Catálogo
+PCOSM00839,Producto Lancôme 794,Revlon,Cuidado capilar,Ácido hialurónico,42.78,Corea del Sur,2008,E-commerce
+PCOSM00840,Producto Dior 254,Neutrogena,Cuidado capilar,Colágeno,97.53,Corea del Sur,2018,Catálogo
+PCOSM00841,Producto Dior 951,Revlon,Cuidado capilar,Retinol,64.07,Japón,2012,Catálogo
+PCOSM00842,Producto Neutrogena 54,L'Oréal,Fragancias,Aceite de argán,97.68,Corea del Sur,2006,Marketplace
+PCOSM00843,Producto Estée Lauder 714,NARS,Maquillaje,Niacinamida,85.6,Brasil,2015,Marketplace
+PCOSM00844,Producto NARS 777,MAC,Protección solar,Retinol,64.71,Colombia,2021,Marketplace
+PCOSM00845,Producto Lancôme 419,L'Oréal,Fragancias,Extracto de té verde,100.66,Corea del Sur,2007,E-commerce
+PCOSM00846,Producto MAC 250,Maybelline,Fragancias,Aceite de argán,75.17,Brasil,2009,Retail
+PCOSM00847,Producto Maybelline 353,Neutrogena,Cuidado de la piel,Retinol,63.77,Corea del Sur,2018,Distribuidor
+PCOSM00848,Producto NARS 947,Maybelline,Cuidado de la piel,Retinol,89.52,Colombia,2012,Marketplace
+PCOSM00849,Producto MAC 975,Revlon,Fragancias,Niacinamida,16.36,Francia,2024,Distribuidor
+PCOSM00850,Producto Revlon 36,Lancôme,Protección solar,Ácido hialurónico,96.68,Alemania,2014,Catálogo
+PCOSM00851,Producto MAC 397,Maybelline,Protección solar,Aceite de argán,26.24,Estados Unidos,2015,Marketplace
+PCOSM00852,Producto Lancôme 777,NARS,Protección solar,Aloe vera,36.41,Francia,2013,Marketplace
+PCOSM00853,Producto L'Oréal 422,Estée Lauder,Fragancias,Colágeno,25.12,Colombia,2021,Retail
+PCOSM00854,Producto Clinique 972,Maybelline,Maquillaje,Aceite de argán,100.16,Japón,2013,Retail
+PCOSM00855,Producto Revlon 580,Dior,Fragancias,Vitamina C,32.83,Corea del Sur,2015,Catálogo
+PCOSM00856,Producto NARS 523,L'Oréal,Protección solar,Ácido hialurónico,10.06,Corea del Sur,2014,Catálogo
+PCOSM00857,Producto Maybelline 33,MAC,Cuidado de la piel,Vitamina C,29.4,Brasil,2022,Catálogo
+PCOSM00858,Producto Maybelline 44,Dior,Cuidado capilar,Retinol,52.56,Canadá,2011,Distribuidor
+PCOSM00859,Producto Lancôme 682,Dior,Cuidado de la piel,Aceite de argán,8.05,Colombia,2010,Marketplace
+PCOSM00860,Producto Clinique 499,NARS,Maquillaje,Niacinamida,70.76,Colombia,2021,E-commerce
+PCOSM00861,Producto MAC 807,Clinique,Cuidado de la piel,Niacinamida,14.66,Colombia,2006,Marketplace
+PCOSM00862,Producto MAC 396,L'Oréal,Fragancias,Aceite de argán,10.32,Japón,2016,Catálogo
+PCOSM00863,Producto MAC 956,Estée Lauder,Cuidado capilar,Retinol,26.82,Brasil,2019,E-commerce
+PCOSM00864,Producto Neutrogena 562,L'Oréal,Fragancias,Vitamina C,102.44,Estados Unidos,2014,Marketplace
+PCOSM00865,Producto Revlon 242,Revlon,Maquillaje,Retinol,38.28,Francia,2016,Distribuidor
+PCOSM00866,Producto MAC 569,Revlon,Cuidado capilar,Retinol,47.56,Francia,2022,Distribuidor
+PCOSM00867,Producto Clinique 639,Clinique,Cuidado de la piel,Retinol,98.51,Estados Unidos,2016,Marketplace
+PCOSM00868,Producto NARS 842,Maybelline,Maquillaje,Retinol,104.36,Alemania,2024,Marketplace
+PCOSM00869,Producto Neutrogena 592,Neutrogena,Fragancias,Vitamina C,89.34,Estados Unidos,2006,Catálogo
+PCOSM00870,Producto NARS 25,Estée Lauder,Fragancias,Aloe vera,13.79,Estados Unidos,2011,Catálogo
+PCOSM00871,Producto Maybelline 843,Clinique,Maquillaje,Retinol,107.54,Alemania,2005,Distribuidor
+PCOSM00872,Producto Revlon 851,MAC,Maquillaje,Aloe vera,100.38,Colombia,2012,Distribuidor
+PCOSM00873,Producto NARS 109,Dior,Cuidado de la piel,Niacinamida,45.47,Canadá,2009,Marketplace
+PCOSM00874,Producto L'Oréal 631,L'Oréal,Maquillaje,Niacinamida,34.12,Japón,2015,Retail
+PCOSM00875,Producto Estée Lauder 294,Estée Lauder,Protección solar,Vitamina C,62.49,Canadá,2012,Catálogo
+PCOSM00876,Producto MAC 417,L'Oréal,Maquillaje,Extracto de té verde,8.52,Canadá,2021,Catálogo
+PCOSM00877,Producto Estée Lauder 778,Lancôme,Cuidado de la piel,Colágeno,14.26,Brasil,2009,Retail
+PCOSM00878,Producto Lancôme 70,Revlon,Cuidado de la piel,Ácido hialurónico,64.72,Estados Unidos,2009,Distribuidor
+PCOSM00879,Producto Clinique 541,Revlon,Cuidado capilar,Extracto de té verde,20.61,Francia,2013,Catálogo
+PCOSM00880,Producto MAC 858,Clinique,Cuidado capilar,Vitamina C,92.09,Francia,2012,Distribuidor
+PCOSM00881,Producto Estée Lauder 787,Revlon,Cuidado de la piel,Vitamina C,76.37,Canadá,2015,Marketplace
+PCOSM00882,Producto Clinique 141,Dior,Protección solar,Aloe vera,89.6,Japón,2024,Retail
+PCOSM00883,Producto Lancôme 364,Revlon,Maquillaje,Niacinamida,63.58,Francia,2020,E-commerce
+PCOSM00884,Producto Revlon 37,Dior,Cuidado de la piel,Ácido hialurónico,65.45,Canadá,2007,E-commerce
+PCOSM00885,Producto Estée Lauder 745,L'Oréal,Protección solar,Retinol,88.46,Japón,2012,Distribuidor
+PCOSM00886,Producto Estée Lauder 693,Revlon,Fragancias,Aceite de argán,58.31,Estados Unidos,2009,Retail
+PCOSM00887,Producto Maybelline 114,Neutrogena,Cuidado de la piel,Ácido hialurónico,98.42,Canadá,2016,Catálogo
+PCOSM00888,Producto Lancôme 476,Lancôme,Protección solar,Aceite de argán,67.9,Francia,2006,Retail
+PCOSM00889,Producto NARS 597,Dior,Protección solar,Ácido hialurónico,85.04,Colombia,2013,Marketplace
+PCOSM00890,Producto NARS 141,Revlon,Protección solar,Aloe vera,79.17,Alemania,2009,Retail
+PCOSM00891,Producto L'Oréal 63,Revlon,Fragancias,Aceite de argán,97.48,Canadá,2019,Distribuidor
+PCOSM00892,Producto Dior 915,Revlon,Cuidado capilar,Extracto de té verde,97.16,Corea del Sur,2015,E-commerce
+PCOSM00893,Producto Maybelline 426,L'Oréal,Cuidado de la piel,Retinol,31.93,Canadá,2020,E-commerce
+PCOSM00894,Producto Maybelline 677,Dior,Maquillaje,Vitamina C,71.15,Alemania,2024,Catálogo
+PCOSM00895,Producto Maybelline 147,L'Oréal,Maquillaje,Retinol,60.65,Corea del Sur,2014,Retail
+PCOSM00896,Producto Neutrogena 501,Revlon,Maquillaje,Aceite de argán,84.79,Francia,2018,Retail
+PCOSM00897,Producto NARS 696,Dior,Protección solar,Niacinamida,119.24,Colombia,2023,Distribuidor
+PCOSM00898,Producto NARS 13,L'Oréal,Cuidado de la piel,Colágeno,17.5,Estados Unidos,2019,Retail
+PCOSM00899,Producto NARS 58,Lancôme,Cuidado de la piel,Vitamina C,91.84,Japón,2021,Marketplace
+PCOSM00900,Producto Lancôme 477,NARS,Maquillaje,Aceite de argán,105.03,Japón,2013,Catálogo
+PCOSM00901,Producto Dior 740,Clinique,Cuidado de la piel,Vitamina C,84.21,Corea del Sur,2018,Distribuidor
+PCOSM00902,Producto NARS 266,Estée Lauder,Fragancias,Niacinamida,5.94,Corea del Sur,2011,Distribuidor
+PCOSM00903,Producto Neutrogena 31,Lancôme,Cuidado de la piel,Aceite de argán,102.21,Alemania,2014,Catálogo
+PCOSM00904,Producto L'Oréal 92,Dior,Cuidado capilar,Extracto de té verde,40.41,Canadá,2011,E-commerce
+PCOSM00905,Producto Dior 49,Estée Lauder,Cuidado capilar,Niacinamida,79.4,Japón,2015,Marketplace
+PCOSM00906,Producto Dior 658,MAC,Cuidado capilar,Aloe vera,114.38,Japón,2010,Marketplace
+PCOSM00907,Producto Lancôme 510,L'Oréal,Cuidado de la piel,Colágeno,42.38,Japón,2012,Distribuidor
+PCOSM00908,Producto Clinique 408,Maybelline,Maquillaje,Retinol,77.48,Estados Unidos,2017,Catálogo
+PCOSM00909,Producto Maybelline 399,Lancôme,Cuidado de la piel,Niacinamida,97.74,Francia,2020,Retail
+PCOSM00910,Producto Neutrogena 174,NARS,Protección solar,Colágeno,73.4,Colombia,2021,E-commerce
+PCOSM00911,Producto Dior 180,Dior,Cuidado de la piel,Aceite de argán,41.27,Canadá,2020,E-commerce
+PCOSM00912,Producto Neutrogena 939,Lancôme,Protección solar,Colágeno,69.31,Colombia,2020,Marketplace
+PCOSM00913,Producto Revlon 241,Clinique,Fragancias,Extracto de té verde,35.52,Colombia,2022,Catálogo
+PCOSM00914,Producto Revlon 522,L'Oréal,Cuidado capilar,Aloe vera,34.59,Canadá,2010,Retail
+PCOSM00915,Producto MAC 582,L'Oréal,Maquillaje,Vitamina C,75.07,Corea del Sur,2024,Catálogo
+PCOSM00916,Producto Maybelline 81,Lancôme,Protección solar,Aceite de argán,90.61,Francia,2015,Retail
+PCOSM00917,Producto Clinique 749,Estée Lauder,Cuidado de la piel,Niacinamida,88.96,Canadá,2016,Marketplace
+PCOSM00918,Producto Revlon 378,Estée Lauder,Cuidado capilar,Aceite de argán,72.94,Brasil,2014,Catálogo
+PCOSM00919,Producto Clinique 236,L'Oréal,Cuidado de la piel,Extracto de té verde,33.43,Estados Unidos,2006,E-commerce
+PCOSM00920,Producto Estée Lauder 648,MAC,Maquillaje,Vitamina C,83,Corea del Sur,2008,Marketplace
+PCOSM00921,Producto Maybelline 608,Neutrogena,Cuidado de la piel,Extracto de té verde,109.58,Colombia,2007,Distribuidor
+PCOSM00922,Producto MAC 113,Maybelline,Fragancias,Colágeno,29.47,Colombia,2024,Marketplace
+PCOSM00923,Producto NARS 479,Revlon,Cuidado capilar,Retinol,30.93,Estados Unidos,2016,Catálogo
+PCOSM00924,Producto Clinique 703,L'Oréal,Maquillaje,Aloe vera,114.12,Estados Unidos,2023,Marketplace
+PCOSM00925,Producto L'Oréal 747,Maybelline,Cuidado de la piel,Retinol,109.64,Colombia,2020,Marketplace
+PCOSM00926,Producto Dior 269,Neutrogena,Maquillaje,Colágeno,63.73,Corea del Sur,2005,E-commerce
+PCOSM00927,Producto Clinique 627,Estée Lauder,Cuidado de la piel,Niacinamida,51.27,Corea del Sur,2021,E-commerce
+PCOSM00928,Producto Neutrogena 742,Dior,Protección solar,Aceite de argán,97.32,Corea del Sur,2006,Marketplace
+PCOSM00929,Producto Maybelline 9,Clinique,Cuidado de la piel,Retinol,118.24,Canadá,2006,E-commerce
+PCOSM00930,Producto MAC 178,NARS,Cuidado de la piel,Extracto de té verde,92.45,Francia,2008,E-commerce
+PCOSM00931,Producto Lancôme 713,Neutrogena,Fragancias,Niacinamida,42.65,Corea del Sur,2009,E-commerce
+PCOSM00932,Producto Clinique 308,Clinique,Protección solar,Extracto de té verde,92.74,Alemania,2009,Retail
+PCOSM00933,Producto Estée Lauder 505,Clinique,Protección solar,Aceite de argán,105.15,Corea del Sur,2008,E-commerce
+PCOSM00934,Producto Clinique 45,Clinique,Protección solar,Colágeno,72.28,Alemania,2018,Catálogo
+PCOSM00935,Producto Revlon 26,Lancôme,Maquillaje,Vitamina C,63.13,Colombia,2007,E-commerce
+PCOSM00936,Producto Clinique 590,Revlon,Protección solar,Vitamina C,52.72,Colombia,2020,E-commerce
+PCOSM00937,Producto Maybelline 422,L'Oréal,Cuidado de la piel,Aceite de argán,105.47,Alemania,2013,Marketplace
+PCOSM00938,Producto Clinique 598,MAC,Cuidado capilar,Vitamina C,19.61,Japón,2005,Retail
+PCOSM00939,Producto Revlon 361,Dior,Fragancias,Aloe vera,82.83,Francia,2018,E-commerce
+PCOSM00940,Producto MAC 933,Lancôme,Fragancias,Aloe vera,61.43,Japón,2017,Marketplace
+PCOSM00941,Producto Lancôme 171,MAC,Fragancias,Aloe vera,63.77,Estados Unidos,2017,Marketplace
+PCOSM00942,Producto MAC 492,Maybelline,Protección solar,Ácido hialurónico,50.56,Canadá,2007,Distribuidor
+PCOSM00943,Producto Neutrogena 884,NARS,Maquillaje,Retinol,62.38,Estados Unidos,2006,Catálogo
+PCOSM00944,Producto Lancôme 645,Estée Lauder,Protección solar,Aceite de argán,77.9,Francia,2013,Catálogo
+PCOSM00945,Producto Clinique 772,Revlon,Cuidado capilar,Vitamina C,52.88,Francia,2009,Distribuidor
+PCOSM00946,Producto Estée Lauder 520,Dior,Fragancias,Aceite de argán,15.07,Canadá,2022,Distribuidor
+PCOSM00947,Producto L'Oréal 696,Maybelline,Cuidado capilar,Extracto de té verde,90.48,Corea del Sur,2007,Catálogo
+PCOSM00948,Producto Neutrogena 754,Clinique,Protección solar,Aceite de argán,118.85,Japón,2010,Marketplace
+PCOSM00949,Producto MAC 683,MAC,Maquillaje,Aloe vera,7.88,Estados Unidos,2011,Marketplace
+PCOSM00950,Producto Clinique 89,Neutrogena,Maquillaje,Ácido hialurónico,119,Corea del Sur,2012,Retail
+PCOSM00951,Producto Revlon 156,Neutrogena,Cuidado capilar,Niacinamida,80.91,Brasil,2019,Catálogo
+PCOSM00952,Producto Dior 948,Neutrogena,Maquillaje,Aceite de argán,70.51,Alemania,2014,Marketplace
+PCOSM00953,Producto Maybelline 798,L'Oréal,Cuidado capilar,Niacinamida,60.6,Francia,2007,Catálogo
+PCOSM00954,Producto Neutrogena 926,Estée Lauder,Cuidado de la piel,Vitamina C,114.95,Brasil,2019,Distribuidor
+PCOSM00955,Producto Revlon 215,Dior,Cuidado de la piel,Retinol,112.92,Francia,2012,Marketplace
+PCOSM00956,Producto MAC 932,Maybelline,Cuidado de la piel,Colágeno,25.47,Alemania,2007,Retail
+PCOSM00957,Producto L'Oréal 189,Estée Lauder,Fragancias,Extracto de té verde,40.83,Francia,2015,Retail
+PCOSM00958,Producto Lancôme 780,MAC,Cuidado de la piel,Retinol,18.15,Brasil,2018,E-commerce
+PCOSM00959,Producto Lancôme 76,Clinique,Cuidado de la piel,Niacinamida,85.24,Estados Unidos,2021,Catálogo
+PCOSM00960,Producto Clinique 412,NARS,Cuidado de la piel,Niacinamida,84.34,Canadá,2009,Distribuidor
+PCOSM00961,Producto Revlon 746,Dior,Protección solar,Extracto de té verde,87.29,Canadá,2009,Catálogo
+PCOSM00962,Producto MAC 181,Clinique,Cuidado capilar,Ácido hialurónico,8.52,Alemania,2011,E-commerce
+PCOSM00963,Producto Maybelline 16,Dior,Protección solar,Retinol,73.44,Corea del Sur,2018,Retail
+PCOSM00964,Producto Clinique 783,Neutrogena,Fragancias,Colágeno,66.19,Francia,2019,Catálogo
+PCOSM00965,Producto Lancôme 317,Maybelline,Cuidado de la piel,Extracto de té verde,66.36,Japón,2008,Distribuidor
+PCOSM00966,Producto Dior 408,Maybelline,Cuidado capilar,Vitamina C,14.25,Francia,2019,Distribuidor
+PCOSM00967,Producto Revlon 94,Clinique,Cuidado de la piel,Extracto de té verde,61.53,Colombia,2016,Retail
+PCOSM00968,Producto Maybelline 556,Revlon,Cuidado capilar,Retinol,95.1,Corea del Sur,2020,Distribuidor
+PCOSM00969,Producto Estée Lauder 726,L'Oréal,Maquillaje,Colágeno,55.03,Brasil,2023,Retail
+PCOSM00970,Producto NARS 165,Neutrogena,Fragancias,Vitamina C,111.89,Alemania,2018,Distribuidor
+PCOSM00971,Producto Revlon 838,Maybelline,Protección solar,Niacinamida,118.38,Alemania,2021,E-commerce
+PCOSM00972,Producto L'Oréal 834,Maybelline,Protección solar,Extracto de té verde,101.88,Brasil,2008,Distribuidor
+PCOSM00973,Producto NARS 797,Dior,Cuidado capilar,Extracto de té verde,41.4,Corea del Sur,2016,Catálogo
+PCOSM00974,Producto Lancôme 543,Revlon,Maquillaje,Niacinamida,83,Brasil,2016,Marketplace
+PCOSM00975,Producto L'Oréal 567,Lancôme,Cuidado capilar,Niacinamida,43.61,Japón,2012,Marketplace
+PCOSM00976,Producto L'Oréal 699,Clinique,Fragancias,Vitamina C,30.92,Corea del Sur,2012,Distribuidor
+PCOSM00977,Producto MAC 461,Clinique,Protección solar,Aceite de argán,20.77,Brasil,2023,Marketplace
+PCOSM00978,Producto L'Oréal 8,Estée Lauder,Cuidado capilar,Aloe vera,50.45,Estados Unidos,2019,Marketplace
+PCOSM00979,Producto L'Oréal 470,Revlon,Cuidado capilar,Colágeno,33.59,Japón,2024,Distribuidor
+PCOSM00980,Producto Lancôme 461,Dior,Cuidado de la piel,Aloe vera,99.47,Corea del Sur,2011,Retail
+PCOSM00981,Producto Clinique 654,MAC,Fragancias,Vitamina C,25.74,Estados Unidos,2023,E-commerce
+PCOSM00982,Producto Lancôme 862,Dior,Fragancias,Aloe vera,117.01,Alemania,2012,Catálogo
+PCOSM00983,Producto Revlon 62,Estée Lauder,Protección solar,Niacinamida,12.49,Canadá,2014,Retail
+PCOSM00984,Producto Clinique 295,Clinique,Cuidado capilar,Colágeno,58,Canadá,2015,Distribuidor
+PCOSM00985,Producto L'Oréal 523,Lancôme,Protección solar,Extracto de té verde,52.84,Estados Unidos,2012,E-commerce
+PCOSM00986,Producto NARS 827,L'Oréal,Fragancias,Vitamina C,77.72,Corea del Sur,2019,Catálogo
+PCOSM00987,Producto Dior 912,L'Oréal,Fragancias,Aloe vera,119.95,Brasil,2020,Marketplace
+PCOSM00988,Producto Maybelline 30,NARS,Maquillaje,Niacinamida,70.16,Francia,2010,Retail
+PCOSM00989,Producto MAC 737,Maybelline,Maquillaje,Ácido hialurónico,37.9,Corea del Sur,2024,Marketplace
+PCOSM00990,Producto Lancôme 337,L'Oréal,Cuidado de la piel,Vitamina C,69.41,Alemania,2013,Catálogo
+PCOSM00991,Producto Estée Lauder 637,Dior,Maquillaje,Extracto de té verde,71.79,Corea del Sur,2012,Distribuidor
+PCOSM00992,Producto Maybelline 233,Revlon,Maquillaje,Extracto de té verde,54.74,Corea del Sur,2012,Distribuidor
+PCOSM00993,Producto Estée Lauder 442,Estée Lauder,Maquillaje,Niacinamida,25.45,Canadá,2007,Catálogo
+PCOSM00994,Producto Neutrogena 164,Neutrogena,Cuidado de la piel,Retinol,36.23,Estados Unidos,2019,Marketplace
+PCOSM00995,Producto L'Oréal 900,Lancôme,Maquillaje,Extracto de té verde,97.19,Alemania,2018,E-commerce
+PCOSM00996,Producto Revlon 51,Estée Lauder,Fragancias,Aceite de argán,60.06,Francia,2019,Distribuidor
+PCOSM00997,Producto Estée Lauder 793,Neutrogena,Fragancias,Aloe vera,22.3,Estados Unidos,2024,Marketplace
+PCOSM00998,Producto Estée Lauder 90,Lancôme,Cuidado capilar,Aloe vera,72.7,Colombia,2007,Distribuidor
+PCOSM00999,Producto Neutrogena 924,Lancôme,Cuidado de la piel,Aceite de argán,106.58,Brasil,2018,Catálogo
+PCOSM01000,Producto Maybelline 797,Lancôme,Cuidado capilar,Retinol,108.57,Alemania,2022,E-commerce
+PCOSM01001,Producto Maybelline 824,Neutrogena,Cuidado de la piel,Aloe vera,8.21,Brasil,2008,Retail
+PCOSM01002,Producto Neutrogena 869,Lancôme,Fragancias,Retinol,108.46,Corea del Sur,2017,Retail
+PCOSM01003,Producto Clinique 929,Clinique,Cuidado capilar,Aceite de argán,72.42,Colombia,2011,Distribuidor
+PCOSM01004,Producto Estée Lauder 12,MAC,Fragancias,Extracto de té verde,81.79,Estados Unidos,2013,Catálogo
+PCOSM01005,Producto MAC 412,Estée Lauder,Cuidado de la piel,Extracto de té verde,85.4,Alemania,2017,E-commerce
+PCOSM01006,Producto Revlon 810,L'Oréal,Fragancias,Colágeno,113.27,Alemania,2013,E-commerce
+PCOSM01007,Producto Neutrogena 446,L'Oréal,Maquillaje,Aceite de argán,67.44,Corea del Sur,2010,Retail
+PCOSM01008,Producto Clinique 882,MAC,Fragancias,Ácido hialurónico,69.5,Colombia,2020,Retail
+PCOSM01009,Producto Clinique 501,Estée Lauder,Cuidado de la piel,Aceite de argán,10.16,Alemania,2012,Catálogo
+PCOSM01010,Producto Neutrogena 312,Estée Lauder,Maquillaje,Aloe vera,108.2,Brasil,2010,Distribuidor
+PCOSM01011,Producto Revlon 880,Neutrogena,Fragancias,Colágeno,97.01,Colombia,2012,Distribuidor
+PCOSM01012,Producto L'Oréal 307,NARS,Maquillaje,Extracto de té verde,22.92,Canadá,2016,Retail
+PCOSM01013,Producto Maybelline 312,Dior,Cuidado capilar,Aloe vera,78.28,Francia,2015,Retail
+PCOSM01014,Producto Lancôme 984,Maybelline,Protección solar,Aceite de argán,44.97,Brasil,2024,Catálogo
+PCOSM01015,Producto Clinique 362,Revlon,Cuidado capilar,Aloe vera,104.46,Corea del Sur,2016,Retail
+PCOSM01016,Producto Estée Lauder 684,Clinique,Cuidado capilar,Ácido hialurónico,115.35,Francia,2007,Marketplace
+PCOSM01017,Producto L'Oréal 421,Clinique,Cuidado de la piel,Colágeno,88.77,Francia,2013,Catálogo
+PCOSM01018,Producto Dior 291,NARS,Cuidado de la piel,Aloe vera,49.13,Corea del Sur,2012,Catálogo
+PCOSM01019,Producto MAC 932,Clinique,Maquillaje,Aloe vera,72.39,Canadá,2021,E-commerce
+PCOSM01020,Producto Dior 2,Maybelline,Cuidado capilar,Ácido hialurónico,109.78,Corea del Sur,2013,Retail
+PCOSM01021,Producto Estée Lauder 305,MAC,Cuidado de la piel,Retinol,39.33,Alemania,2006,Catálogo
+PCOSM01022,Producto Clinique 985,MAC,Cuidado capilar,Colágeno,57.79,Canadá,2006,Marketplace
+PCOSM01023,Producto NARS 50,Dior,Cuidado capilar,Retinol,60.96,Brasil,2008,E-commerce
+PCOSM01024,Producto L'Oréal 361,Neutrogena,Protección solar,Aceite de argán,94.03,Brasil,2011,Marketplace
+PCOSM01025,Producto Revlon 10,Maybelline,Cuidado de la piel,Extracto de té verde,56.73,Alemania,2014,E-commerce
+PCOSM01026,Producto L'Oréal 183,Estée Lauder,Fragancias,Vitamina C,30.57,Colombia,2007,E-commerce
+PCOSM01027,Producto Dior 305,Clinique,Protección solar,Ácido hialurónico,95.01,Colombia,2021,Marketplace
+PCOSM01028,Producto Estée Lauder 44,NARS,Cuidado de la piel,Ácido hialurónico,71.93,Alemania,2017,Marketplace
+PCOSM01029,Producto Maybelline 935,L'Oréal,Fragancias,Colágeno,74.72,Estados Unidos,2008,Distribuidor
+PCOSM01030,Producto MAC 732,Clinique,Fragancias,Niacinamida,70.99,Estados Unidos,2009,E-commerce
+PCOSM01031,Producto MAC 503,NARS,Protección solar,Vitamina C,7.22,Brasil,2007,Catálogo
+PCOSM01032,Producto Revlon 391,L'Oréal,Cuidado capilar,Colágeno,102.31,Estados Unidos,2006,Distribuidor
+PCOSM01033,Producto Maybelline 740,Estée Lauder,Protección solar,Vitamina C,84.82,Corea del Sur,2012,E-commerce
+PCOSM01034,Producto Neutrogena 269,MAC,Protección solar,Colágeno,22.69,Colombia,2017,Retail
+PCOSM01035,Producto Estée Lauder 729,Lancôme,Maquillaje,Aceite de argán,16.33,Colombia,2010,Marketplace
+PCOSM01036,Producto L'Oréal 374,Clinique,Cuidado capilar,Aceite de argán,79.24,Brasil,2008,Marketplace
+PCOSM01037,Producto NARS 99,Estée Lauder,Maquillaje,Niacinamida,44.67,Alemania,2019,Retail
+PCOSM01038,Producto Clinique 913,Dior,Fragancias,Ácido hialurónico,69.81,Brasil,2016,Marketplace
+PCOSM01039,Producto Clinique 495,Dior,Cuidado de la piel,Retinol,11.83,Colombia,2023,Catálogo
+PCOSM01040,Producto Neutrogena 891,Clinique,Fragancias,Aceite de argán,65.13,Brasil,2023,Marketplace
+PCOSM01041,Producto Lancôme 275,Clinique,Protección solar,Niacinamida,36,Alemania,2010,Distribuidor
+PCOSM01042,Producto L'Oréal 273,Lancôme,Fragancias,Colágeno,23.74,Estados Unidos,2011,Distribuidor
+PCOSM01043,Producto Revlon 570,Revlon,Fragancias,Colágeno,29.32,Colombia,2008,E-commerce
+PCOSM01044,Producto NARS 913,Dior,Maquillaje,Colágeno,37.33,Canadá,2009,Marketplace
+PCOSM01045,Producto Revlon 770,Clinique,Cuidado capilar,Vitamina C,39.72,Francia,2021,Distribuidor
+PCOSM01046,Producto MAC 46,Estée Lauder,Cuidado de la piel,Retinol,40.55,Colombia,2018,Marketplace
+PCOSM01047,Producto Estée Lauder 244,Dior,Maquillaje,Ácido hialurónico,56.72,Corea del Sur,2014,Distribuidor
+PCOSM01048,Producto MAC 503,Neutrogena,Cuidado de la piel,Ácido hialurónico,97.35,Colombia,2021,Distribuidor
+PCOSM01049,Producto Estée Lauder 186,Lancôme,Cuidado capilar,Retinol,67.74,Francia,2008,Retail
+PCOSM01050,Producto NARS 783,Neutrogena,Cuidado capilar,Extracto de té verde,31.61,Canadá,2022,Retail
+PCOSM01051,Producto L'Oréal 748,Revlon,Fragancias,Vitamina C,112.51,Alemania,2011,Catálogo
+PCOSM01052,Producto Lancôme 663,L'Oréal,Maquillaje,Aloe vera,102.82,Japón,2005,E-commerce
+PCOSM01053,Producto Maybelline 637,Revlon,Cuidado capilar,Vitamina C,29.77,Corea del Sur,2023,Catálogo
+PCOSM01054,Producto Maybelline 578,Lancôme,Maquillaje,Niacinamida,67.51,Francia,2024,Marketplace
+PCOSM01055,Producto Maybelline 796,L'Oréal,Fragancias,Vitamina C,72.72,Japón,2020,Marketplace
+PCOSM01056,Producto Dior 349,Maybelline,Maquillaje,Retinol,89.14,Francia,2018,Catálogo
+PCOSM01057,Producto Neutrogena 483,Neutrogena,Maquillaje,Ácido hialurónico,46.95,Estados Unidos,2023,Catálogo
+PCOSM01058,Producto Clinique 678,Neutrogena,Cuidado capilar,Vitamina C,77.94,Canadá,2016,Retail
+PCOSM01059,Producto Clinique 470,Maybelline,Fragancias,Vitamina C,77.62,Japón,2021,Marketplace
+PCOSM01060,Producto Neutrogena 358,Dior,Cuidado capilar,Ácido hialurónico,84.1,Corea del Sur,2013,Catálogo
+PCOSM01061,Producto Revlon 577,Estée Lauder,Fragancias,Retinol,40.44,Alemania,2011,Distribuidor
+PCOSM01062,Producto Clinique 50,Lancôme,Maquillaje,Aceite de argán,62.43,Canadá,2023,E-commerce
+PCOSM01063,Producto Estée Lauder 606,Lancôme,Cuidado de la piel,Aloe vera,116.38,Estados Unidos,2010,Catálogo
+PCOSM01064,Producto Maybelline 553,Lancôme,Fragancias,Colágeno,47.01,Colombia,2009,Retail
+PCOSM01065,Producto Dior 659,Lancôme,Fragancias,Aloe vera,41.71,Francia,2015,E-commerce
+PCOSM01066,Producto Maybelline 898,Lancôme,Protección solar,Aceite de argán,101.72,Canadá,2015,Catálogo
+PCOSM01067,Producto Lancôme 350,Clinique,Cuidado de la piel,Aceite de argán,61.76,Colombia,2008,Marketplace
+PCOSM01068,Producto Estée Lauder 684,MAC,Fragancias,Retinol,98.99,Corea del Sur,2013,Marketplace
+PCOSM01069,Producto NARS 218,Revlon,Maquillaje,Aceite de argán,7.51,Japón,2022,Distribuidor
+PCOSM01070,Producto NARS 725,NARS,Cuidado capilar,Aceite de argán,51.47,Francia,2022,Catálogo
+PCOSM01071,Producto Estée Lauder 956,Estée Lauder,Protección solar,Retinol,56.34,Brasil,2007,E-commerce
+PCOSM01072,Producto Dior 447,MAC,Maquillaje,Extracto de té verde,87.47,Estados Unidos,2020,Catálogo
+PCOSM01073,Producto L'Oréal 503,Maybelline,Fragancias,Aceite de argán,12.68,Corea del Sur,2011,Retail
+PCOSM01074,Producto L'Oréal 152,MAC,Fragancias,Niacinamida,74.59,Estados Unidos,2013,E-commerce
+PCOSM01075,Producto Neutrogena 222,Dior,Fragancias,Ácido hialurónico,95.13,Brasil,2024,Distribuidor
+PCOSM01076,Producto Revlon 732,Dior,Cuidado capilar,Aceite de argán,90.49,Estados Unidos,2022,E-commerce
+PCOSM01077,Producto Lancôme 438,Estée Lauder,Cuidado capilar,Aceite de argán,116.42,Francia,2011,Marketplace
+PCOSM01078,Producto Revlon 739,MAC,Fragancias,Aloe vera,99.15,Brasil,2010,Distribuidor
+PCOSM01079,Producto Estée Lauder 812,Neutrogena,Fragancias,Ácido hialurónico,15.58,Colombia,2016,E-commerce
+PCOSM01080,Producto Revlon 81,Neutrogena,Fragancias,Niacinamida,103.28,Corea del Sur,2020,Catálogo
+PCOSM01081,Producto Lancôme 578,Neutrogena,Protección solar,Ácido hialurónico,19.78,Francia,2008,E-commerce
+PCOSM01082,Producto Neutrogena 808,NARS,Cuidado de la piel,Colágeno,23.54,Canadá,2006,Catálogo
+PCOSM01083,Producto NARS 974,Dior,Maquillaje,Colágeno,96.24,Estados Unidos,2019,E-commerce
+PCOSM01084,Producto MAC 298,Lancôme,Cuidado capilar,Extracto de té verde,39.21,Alemania,2023,Distribuidor
+PCOSM01085,Producto Neutrogena 864,L'Oréal,Cuidado de la piel,Colágeno,102.61,Japón,2020,E-commerce
+PCOSM01086,Producto MAC 770,L'Oréal,Cuidado capilar,Colágeno,90.46,Corea del Sur,2007,Catálogo
+PCOSM01087,Producto NARS 301,Dior,Protección solar,Extracto de té verde,34.19,Francia,2021,Distribuidor
+PCOSM01088,Producto Dior 765,Clinique,Fragancias,Aloe vera,67.12,Canadá,2021,Catálogo
+PCOSM01089,Producto MAC 665,Neutrogena,Fragancias,Aceite de argán,63.77,Corea del Sur,2024,E-commerce
+PCOSM01090,Producto L'Oréal 749,Maybelline,Cuidado de la piel,Colágeno,89.06,Colombia,2006,Distribuidor
+PCOSM01091,Producto Estée Lauder 225,Dior,Maquillaje,Ácido hialurónico,114.95,Alemania,2024,Catálogo
+PCOSM01092,Producto Maybelline 652,Estée Lauder,Fragancias,Extracto de té verde,35.02,Corea del Sur,2005,Distribuidor
+PCOSM01093,Producto MAC 196,Maybelline,Fragancias,Vitamina C,90.78,Japón,2013,Catálogo
+PCOSM01094,Producto Lancôme 563,MAC,Fragancias,Aloe vera,74.53,Colombia,2012,Catálogo
+PCOSM01095,Producto Dior 527,L'Oréal,Maquillaje,Colágeno,101.63,Canadá,2017,Retail
+PCOSM01096,Producto Maybelline 550,MAC,Maquillaje,Aceite de argán,68.79,Japón,2012,E-commerce
+PCOSM01097,Producto Neutrogena 881,L'Oréal,Cuidado capilar,Aceite de argán,39.32,Japón,2015,E-commerce
+PCOSM01098,Producto MAC 571,L'Oréal,Protección solar,Ácido hialurónico,69.38,Brasil,2008,Marketplace
+PCOSM01099,Producto L'Oréal 459,Maybelline,Maquillaje,Colágeno,35.64,Colombia,2008,Catálogo
+PCOSM01100,Producto Neutrogena 417,Maybelline,Protección solar,Aloe vera,110.4,Estados Unidos,2012,E-commerce
+PCOSM01101,Producto MAC 73,Revlon,Protección solar,Aloe vera,115.5,Canadá,2006,Retail
+PCOSM01102,Producto Revlon 262,NARS,Cuidado capilar,Aceite de argán,7.97,Japón,2020,E-commerce
+PCOSM01103,Producto Estée Lauder 98,MAC,Protección solar,Retinol,115.37,Francia,2006,Retail
+PCOSM01104,Producto Revlon 673,Neutrogena,Fragancias,Aceite de argán,11.97,Canadá,2016,E-commerce
+PCOSM01105,Producto Maybelline 212,Lancôme,Maquillaje,Niacinamida,88.84,Brasil,2016,Distribuidor
+PCOSM01106,Producto Lancôme 402,Clinique,Protección solar,Extracto de té verde,41.05,Corea del Sur,2005,Marketplace
+PCOSM01107,Producto Lancôme 340,Clinique,Cuidado de la piel,Aceite de argán,44.46,Brasil,2014,Catálogo
+PCOSM01108,Producto NARS 654,Neutrogena,Cuidado capilar,Ácido hialurónico,95.73,Corea del Sur,2013,Retail
+PCOSM01109,Producto NARS 265,MAC,Fragancias,Retinol,29.68,Brasil,2017,Distribuidor
+PCOSM01110,Producto Lancôme 146,NARS,Protección solar,Colágeno,14.47,Francia,2012,Catálogo
+PCOSM01111,Producto MAC 799,Neutrogena,Maquillaje,Ácido hialurónico,41.14,Alemania,2006,Retail
+PCOSM01112,Producto Estée Lauder 345,L'Oréal,Protección solar,Aloe vera,107.4,Canadá,2005,E-commerce
+PCOSM01113,Producto Clinique 758,MAC,Maquillaje,Niacinamida,40.2,Alemania,2015,Marketplace
+PCOSM01114,Producto MAC 626,Clinique,Fragancias,Aceite de argán,110.69,Brasil,2010,Distribuidor
+PCOSM01115,Producto MAC 153,NARS,Cuidado capilar,Retinol,10.98,Canadá,2014,Distribuidor
+PCOSM01116,Producto NARS 536,MAC,Cuidado capilar,Ácido hialurónico,60.68,Brasil,2017,Retail
+PCOSM01117,Producto NARS 330,Neutrogena,Cuidado de la piel,Extracto de té verde,91.75,Corea del Sur,2016,Retail
+PCOSM01118,Producto Maybelline 789,Neutrogena,Cuidado capilar,Retinol,113.85,Canadá,2013,Distribuidor
+PCOSM01119,Producto L'Oréal 217,Revlon,Cuidado de la piel,Retinol,40.66,Alemania,2008,Retail
+PCOSM01120,Producto Clinique 205,Estée Lauder,Cuidado de la piel,Ácido hialurónico,12.95,Estados Unidos,2010,Catálogo
+PCOSM01121,Producto MAC 429,L'Oréal,Fragancias,Ácido hialurónico,12.37,Alemania,2021,E-commerce
+PCOSM01122,Producto Revlon 287,NARS,Maquillaje,Retinol,101.65,Alemania,2010,Marketplace
+PCOSM01123,Producto Lancôme 142,Neutrogena,Protección solar,Ácido hialurónico,16.56,Corea del Sur,2017,Marketplace
+PCOSM01124,Producto Estée Lauder 581,L'Oréal,Maquillaje,Ácido hialurónico,16.55,Japón,2012,Catálogo
+PCOSM01125,Producto Neutrogena 242,MAC,Protección solar,Colágeno,91.81,Colombia,2016,E-commerce
+PCOSM01126,Producto L'Oréal 147,Revlon,Maquillaje,Aceite de argán,33.67,Colombia,2016,Catálogo
+PCOSM01127,Producto Revlon 571,Neutrogena,Protección solar,Extracto de té verde,58.68,Canadá,2024,Distribuidor
+PCOSM01128,Producto Lancôme 683,Dior,Cuidado capilar,Ácido hialurónico,45.8,Estados Unidos,2006,E-commerce
+PCOSM01129,Producto Maybelline 381,Lancôme,Cuidado capilar,Extracto de té verde,50.59,Estados Unidos,2016,E-commerce
+PCOSM01130,Producto Lancôme 753,Lancôme,Fragancias,Extracto de té verde,73.6,Francia,2015,Catálogo
+PCOSM01131,Producto MAC 751,Clinique,Cuidado de la piel,Vitamina C,46.56,Colombia,2019,Distribuidor
+PCOSM01132,Producto Dior 454,Estée Lauder,Maquillaje,Aloe vera,14.37,Alemania,2007,Catálogo
+PCOSM01133,Producto Dior 715,MAC,Protección solar,Retinol,110.23,Alemania,2009,Catálogo
+PCOSM01134,Producto L'Oréal 238,Maybelline,Cuidado de la piel,Niacinamida,103.95,Alemania,2020,Marketplace
+PCOSM01135,Producto Maybelline 485,NARS,Cuidado capilar,Extracto de té verde,92.17,Alemania,2018,Retail
+PCOSM01136,Producto Clinique 890,Maybelline,Cuidado capilar,Retinol,119.52,Canadá,2007,Distribuidor
+PCOSM01137,Producto Neutrogena 616,Maybelline,Protección solar,Ácido hialurónico,50.17,Brasil,2015,Marketplace
+PCOSM01138,Producto Revlon 942,Clinique,Cuidado de la piel,Ácido hialurónico,63.33,Brasil,2016,Catálogo
+PCOSM01139,Producto L'Oréal 687,Revlon,Cuidado de la piel,Vitamina C,85.35,Canadá,2008,E-commerce
+PCOSM01140,Producto Dior 426,Lancôme,Protección solar,Aceite de argán,102.99,Canadá,2008,Distribuidor
+PCOSM01141,Producto NARS 546,MAC,Fragancias,Niacinamida,63.02,Brasil,2007,Distribuidor
+PCOSM01142,Producto Clinique 299,Estée Lauder,Maquillaje,Ácido hialurónico,31.93,Canadá,2022,Marketplace
+PCOSM01143,Producto MAC 224,Revlon,Cuidado de la piel,Vitamina C,74.57,Alemania,2010,Distribuidor
+PCOSM01144,Producto MAC 319,Revlon,Cuidado de la piel,Colágeno,95.13,Colombia,2010,E-commerce
+PCOSM01145,Producto Lancôme 48,Dior,Maquillaje,Aloe vera,90.19,Colombia,2023,Catálogo
+PCOSM01146,Producto MAC 496,Maybelline,Fragancias,Vitamina C,48.73,Estados Unidos,2011,Marketplace
+PCOSM01147,Producto Lancôme 878,Clinique,Protección solar,Niacinamida,21.26,Corea del Sur,2017,E-commerce
+PCOSM01148,Producto NARS 506,Lancôme,Cuidado de la piel,Niacinamida,24.61,Alemania,2017,Marketplace
+PCOSM01149,Producto Neutrogena 555,Dior,Fragancias,Colágeno,69.88,Corea del Sur,2010,Catálogo
+PCOSM01150,Producto Lancôme 774,MAC,Cuidado capilar,Ácido hialurónico,48.25,Corea del Sur,2017,Marketplace
+PCOSM01151,Producto Maybelline 902,NARS,Maquillaje,Extracto de té verde,13.79,Colombia,2013,Catálogo
+PCOSM01152,Producto Estée Lauder 181,Estée Lauder,Maquillaje,Ácido hialurónico,116.66,Canadá,2017,Catálogo
+PCOSM01153,Producto Maybelline 781,Estée Lauder,Cuidado de la piel,Niacinamida,14.61,Japón,2007,Catálogo
+PCOSM01154,Producto Dior 3,Dior,Cuidado capilar,Niacinamida,14.21,Corea del Sur,2005,Distribuidor
+PCOSM01155,Producto Dior 948,Maybelline,Maquillaje,Aceite de argán,48.04,Canadá,2024,E-commerce
+PCOSM01156,Producto Lancôme 614,Revlon,Cuidado capilar,Retinol,85.64,Estados Unidos,2008,Marketplace
+PCOSM01157,Producto Neutrogena 464,L'Oréal,Cuidado de la piel,Aloe vera,53.32,Colombia,2021,Retail
+PCOSM01158,Producto Neutrogena 620,Clinique,Cuidado de la piel,Vitamina C,29.51,Japón,2015,Marketplace
+PCOSM01159,Producto Revlon 634,Estée Lauder,Maquillaje,Ácido hialurónico,108.33,Corea del Sur,2021,Retail
+PCOSM01160,Producto NARS 527,NARS,Fragancias,Ácido hialurónico,28.11,Alemania,2010,Marketplace
+PCOSM01161,Producto NARS 667,Maybelline,Protección solar,Niacinamida,34.16,Francia,2021,E-commerce
+PCOSM01162,Producto Neutrogena 804,L'Oréal,Fragancias,Aceite de argán,96.92,Colombia,2019,Distribuidor
+PCOSM01163,Producto Revlon 667,Lancôme,Maquillaje,Colágeno,87.45,Colombia,2022,Retail
+PCOSM01164,Producto NARS 20,NARS,Maquillaje,Aloe vera,99.93,Colombia,2023,Retail
+PCOSM01165,Producto Estée Lauder 788,Maybelline,Protección solar,Aceite de argán,68.45,Alemania,2024,Marketplace
+PCOSM01166,Producto NARS 674,MAC,Protección solar,Extracto de té verde,48.7,Alemania,2018,Catálogo
+PCOSM01167,Producto NARS 252,NARS,Cuidado capilar,Vitamina C,106.2,Francia,2008,E-commerce
+PCOSM01168,Producto Dior 396,Maybelline,Fragancias,Extracto de té verde,97.05,Colombia,2014,Distribuidor
+PCOSM01169,Producto Lancôme 539,Estée Lauder,Cuidado capilar,Ácido hialurónico,5.93,Francia,2011,Catálogo
+PCOSM01170,Producto Clinique 200,L'Oréal,Fragancias,Niacinamida,37.76,Japón,2016,E-commerce
+PCOSM01171,Producto NARS 828,NARS,Maquillaje,Retinol,37.56,Francia,2009,Retail
+PCOSM01172,Producto Clinique 134,Revlon,Protección solar,Aloe vera,83.43,Canadá,2022,E-commerce
+PCOSM01173,Producto Neutrogena 976,L'Oréal,Fragancias,Ácido hialurónico,92.53,Brasil,2021,Retail
+PCOSM01174,Producto NARS 159,Estée Lauder,Fragancias,Aloe vera,33.44,Estados Unidos,2022,Retail
+PCOSM01175,Producto Clinique 613,Dior,Fragancias,Ácido hialurónico,40.97,Japón,2008,E-commerce
+PCOSM01176,Producto Neutrogena 654,Maybelline,Fragancias,Aceite de argán,84.05,Alemania,2022,E-commerce
+PCOSM01177,Producto NARS 375,Revlon,Cuidado capilar,Extracto de té verde,54.38,Canadá,2021,Retail
+PCOSM01178,Producto Revlon 799,MAC,Protección solar,Ácido hialurónico,47.34,Japón,2011,Marketplace
+PCOSM01179,Producto Revlon 870,NARS,Protección solar,Aceite de argán,97.69,Francia,2010,Marketplace
+PCOSM01180,Producto Maybelline 807,L'Oréal,Protección solar,Vitamina C,96.93,Estados Unidos,2019,Catálogo
+PCOSM01181,Producto NARS 725,L'Oréal,Cuidado de la piel,Extracto de té verde,118.28,Francia,2005,E-commerce
+PCOSM01182,Producto Lancôme 528,NARS,Protección solar,Ácido hialurónico,38.58,Corea del Sur,2022,Catálogo
+PCOSM01183,Producto MAC 338,Dior,Cuidado de la piel,Niacinamida,53.83,Brasil,2011,Distribuidor
+PCOSM01184,Producto Lancôme 344,Lancôme,Maquillaje,Ácido hialurónico,24.09,Brasil,2015,Distribuidor
+PCOSM01185,Producto NARS 933,Neutrogena,Protección solar,Extracto de té verde,114.94,Colombia,2010,Marketplace
+PCOSM01186,Producto MAC 861,Neutrogena,Maquillaje,Aceite de argán,97.72,Brasil,2020,Distribuidor
+PCOSM01187,Producto Estée Lauder 999,Revlon,Cuidado de la piel,Vitamina C,99.78,Japón,2007,Marketplace
+PCOSM01188,Producto Revlon 976,Clinique,Protección solar,Extracto de té verde,47.13,Alemania,2014,Retail
+PCOSM01189,Producto L'Oréal 485,Neutrogena,Cuidado de la piel,Retinol,22.12,Corea del Sur,2014,Retail
+PCOSM01190,Producto Maybelline 483,MAC,Cuidado de la piel,Aloe vera,78.91,Alemania,2008,Catálogo
+PCOSM01191,Producto Maybelline 86,Neutrogena,Maquillaje,Ácido hialurónico,115.36,Alemania,2023,Marketplace
+PCOSM01192,Producto Revlon 868,Estée Lauder,Protección solar,Extracto de té verde,115.28,Brasil,2015,Marketplace
+PCOSM01193,Producto Revlon 66,Maybelline,Fragancias,Extracto de té verde,45.76,Canadá,2005,Retail
+PCOSM01194,Producto Neutrogena 729,Neutrogena,Fragancias,Vitamina C,58.18,Brasil,2017,Distribuidor
+PCOSM01195,Producto Neutrogena 572,Neutrogena,Fragancias,Ácido hialurónico,36.35,Corea del Sur,2005,Retail
+PCOSM01196,Producto Maybelline 953,Lancôme,Cuidado de la piel,Colágeno,49.14,Corea del Sur,2011,Catálogo
+PCOSM01197,Producto Revlon 653,Estée Lauder,Protección solar,Aceite de argán,73.39,Canadá,2006,Marketplace
+PCOSM01198,Producto Estée Lauder 270,Clinique,Cuidado capilar,Extracto de té verde,94.6,Corea del Sur,2008,Distribuidor
+PCOSM01199,Producto NARS 876,L'Oréal,Cuidado de la piel,Extracto de té verde,23.65,Brasil,2022,E-commerce
+PCOSM01200,Producto Estée Lauder 137,Estée Lauder,Protección solar,Colágeno,103.93,Brasil,2005,Catálogo
